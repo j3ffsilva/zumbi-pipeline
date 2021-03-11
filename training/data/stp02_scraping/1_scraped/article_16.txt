@@ -1,0 +1,3 @@
+O Twitter está investigando por que sua rede neural para gerar visualizações de fotos aparentemente opta por mostrar imagens de pessoas brancas com mais frequência do que rostos negros. A suspeita foi apontada por usuários da rede social ao longo do fim de semana.
+
+Eles postaram vários exemplos de postagens com o rosto de uma pessoa negra e de uma branca para provar que a prévia do Twitter mostrava rostos de brancos com mais frequência. Os usuários também descobriram que o algoritmo de visualização da rede social escolhia mais personagens de desenhos animados não negros.
