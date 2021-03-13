@@ -34,10 +34,11 @@ def sentencize_article(sentencizer_input_dir):
 		get_articles_4_sentencizer(sentencizer_input_dir)
 	# Sentencize each file and update DB
 	for full_name in tqdm(files_4_sentencizer):
-		jsonl_sents = text_2_jsonl_sents(fh.read(full_name))
-
-		# Save sentences into output directory
+		text = fh.read(full_name)
 		filename = fh.get_filename(full_name)
+		jsonl_sents = text_2_jsonl_sents(text, filename)
+		# Save sentences into output directory
+		
 		save_article_as_sentencized(filename, jsonl_sents)
 
 		# Updates URL status on the DB
@@ -55,10 +56,10 @@ def save_article_as_sentencized(filename, jsonl_sents):
 	fh.write_list(output_file, jsonl_sents)
 
 def main(input_file):
-	### Step 1: Scrape URLs
-	scrape_urls(build_urls(input_file))
+	### Step 2: Scrape URLs
+	#scrape_urls(build_urls(input_file))
 
-	### Step 2: Sentencize articles
+	### Step 3: Sentencize articles
 	sentencize_article(config.SENTENCIZER_INPUT_DIR)
 
 if (__name__ == '__main__'):
