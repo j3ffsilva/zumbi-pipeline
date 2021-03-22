@@ -1,0 +1,17 @@
+Pesquisadores da Universidade da Virgínia, nos Estados Unidos, desenvolveram um sistema de inteligência artificial (IA) que é capaz de identificar e quantificar sinais fisiológicos associados ao racismo, tecnologia apresentada em um estudo publicado recentemente no ArXiv.
+
+Na pesquisa, 76 voluntários passaram por um Teste de Associação Implícita, método no qual preconceitos raciais implícitos podem ser detectados com base nas reações das pessoas ao olhar para imagens e palavras que devem ser associadas a expressões como “pele escura”, “pele clara”, “má” e “boa”.
+
+Durante esse teste, foram usaram dispositivos vestíveis como um Apple Watch ou outro tipo de smartwatch, que tinham a função de medir as reações fisiológicas dos participantes ao se depararem com pessoas estranhas e possíveis ameaças, representadas pelas figuras mostradas a eles.
+
+O dispositivo vestível desempenha papel fundamental no estudo, ao coletar os dados referentes às reações fisiológicas dos voluntários.Fonte: Pixabay
+
+Em seguida, foi a vez do algoritmo de IA entrar em ação, para analisar as respostas dos voluntários e os dados obtidos pelo relógio inteligente enquanto eles faziam o teste. O objetivo era verificar se uma combinação específica de respostas fisiológicas pode nos mostrar se uma determinada pessoa está experimentando sentimentos involuntários de racismo.
+
+Qual foi o resultado?
+
+De acordo com os pesquisadores da Universidade da Virgínia, a IA desenvolvida por eles foi capaz de prever um “viés implícito de racismo” a partir da análise de sinais fisiológicos com uma precisão de 76,1%.
+
+Essa precisão do algoritmo é considerada baixa, mas levando em conta que a finalidade do estudo não era criar um smartwatch capaz de detectar racistas, o resultado pode ajudar a entender melhor as associações mentais da cor escura da pele com algo negativo e as manifestações fisiológicas desse tipo de reação, como aponta o The Next Web.
+
+Ou seja, a IA não rotula preconceito ou racismo, apenas aponta os "efeitos colaterais" associados a tais condições, embora haja a necessidade de realizar novos testes para confirmar tal capacidade.

@@ -1,0 +1,62 @@
+Nos últimos dias, o Google tem sido alvo de protestos nas redes sociais após uma de suas líderes de Ética em Inteligência Artificial, Timnit Gebru, ser demitida na quinta-feira (3).
+
+Segundo ela, o motivo teria sido um e-mail que desagradou seus superiores.
+
+Além das críticas à atitude da gigante das buscas, a cientista recebeu apoio por meio da hashtag
+
+#ISupportTimnit, no Twiter, e um abaixo-assinado contra a ação.
+
+O e-mail teria sido enviado a uma lista de transmissão chamada Google Brain Women and Allies, formada por mulheres que trabalham na área de pesquisa em inteligência artificial e deep learning.
+
+Nele, Timnit demonstra insatisfação por estar sendo obrigada a desistir de publicar um paper de coautoria com outros funcionários da empresa e colaboradores externos.
+
+publicidade 'Uma semana antes de sair de férias, você vê uma reunião aparecer em sua agenda às 16h30. E nesta reunião, o gestor do seu gestor te informa que 'foi decidido' que você precisa retirar seu paper até a próxima semana… Você não vale nem uma conversa sobre o assunto, já que não é alguém cuja humanidade (para não falar da experiência reconhecida por jornalistas, governos, cientistas, organizações civis como a Electronic Frontiers Foundation) é valorizada nesta companhia', diz o e-mail.
+
+Em um tuíte, Gebru diz ter recebido a mensagem pela vice-presidente de Engenharia do Google Research, Megan Kacholia, informando aceitar seu pedido de demissão 'Eu não me demiti, só propus algumas condições e disse que responderia quando voltasse das férias. Mas acho que ela decidiu por mim', publicou a cientista.
+
+Em outros posts no Twitter, ela explica que Kacholia alegou que suas condições não poderiam ser atendidas, e que a empresa aceitava seu pedido de demissão.
+
+Apparently my manager's manager sent an email my direct reports saying she accepted my resignation.
+
+I hadn't resigned—I had asked
+
+for simple conditions first and said I would respond when I'm back from vacation.
+
+But I guess she decided for me 🙂 that's the lawyer speak. - Timnit Gebru (@timnitGebru)
+
+December 3, 2020 'No entanto, acreditamos que o encerramento de suas atividades deveria acontecer antes do proposto em seu e-mail, pois certos aspectos do e-mail que você enviou na noite passada para funcionários que não são gestores no grupo Brain mostram um comportamento que não condiz com o esperado de um gestor Google', teria dito a vice-presidente, de acordo com os tuítes de Gebru.
+
+Ela atribui a decisão sobre sua demissão a Jeff Dean, chefe do departamento de IA.
+
+Na quinta (3), Dean enviou um e-mail aos funcionários da empresa, obtido pelo site Platformer.
+
+Nele, o gestor explica que o paper publicado por Gebru e colaboradores externos precisaria passar por um processo de revisão que dura duas semanas, mas foi publicado antes disso 'O paper foi revisado e os autores foram informados que ele não atendia nossos requisitos para publicação e os motivos', afirmou Dean no e-mail.
+
+#ISupportTimnit
+
+A decisão do Google de demitir a especialista em IA não foi bem aceita pela comunidade científica.
+
+Mais de três mil pessoas já assinaram um documento encabeçado pelo Google Walkout, grupo de funcionários e ex-funcionários que realiza manifestações contra assédio sexual e falta de transparência na empresa, pedindo explicações sobre o desligamento de Gebru.
+
+O documento alega que a cientista foi alvo de racismo, gaslighting, censura e uma demissão retaliatória.
+
+We stand with @timnitGebru.
+
+We call on Google Research
+
+to strengthen its commitment to research integrity and to unequivocally commit
+
+to supporting research that honors the commitments made in Google
+
+'s AI Principles.
+
+Sign the letter: https://t.co/hf91oDZ0Ew - Google Walkout For Real Change (@GoogleWalkout)
+
+December 4, 2020 'Pelo que sabemos, a doutora Gebru é uma das únicas pessoas que exercem pressão interna contra uma incursão antiética e antidemocrática de tecnologias poderosas e enviesadas em nossas vidas. Isto é um serviço público, e sua importância não pode ser subestimada. A retaliação do Google contra a doutora Gebru, e sua manobra para silenciar seu trabalho, nos preocupa', diz o documento do Google Walkout.
+
+Em parceria com Joy Buolamwini, cientista da computação e ativista do MIT Media Lab, Gebru publicou um paper sobre o viés algorítmico, mostrando as taxas de erro ao identificar pessoas de pele escura eram muito maiores sobre pessoas de pele clara.
+
+Um dos motivos era a utilização majoritária de datasets brancos no treinamento de algoritmos.
+
+Fonte: The Verge/Platformer
+

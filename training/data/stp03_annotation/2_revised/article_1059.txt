@@ -1,0 +1,34 @@
+À esquerda, a linha do tempo que corta as imagens.
+
+À direita, a visualização da linha do tempo com o novo teste do Twitter. - Foto: Reprodução/Twitter 
+À esquerda, a linha do tempo que corta as imagens.
+
+À direita, a visualização da linha do tempo com o novo teste do Twitter. - Foto: Reprodução/Twitter
+
+O Twitter anunciou na última quarta-feira (10) um teste nos aplicativos para iPhone e celulares Android que muda a forma de exibição de fotos e vídeos na linha do tempo.
+
+A partir de agora, algumas pessoas irão visualizar os conteúdos por inteiro, sem os recortes que padronizam o tamanho das imagens.
+
+A novidade busca resolver um problema no recurso que escolhia uma porção da foto para ser mostrada para os usuários.
+
+Em setembro passado, perfis apontaram que o recurso teria inclinação a escolher rostos de pessoas brancas em imagens que também possuem rostos de pessoas negras 'Algumas vezes é melhor dizer com uma fotos ou vídeo. Nas próximas semanas, estaremos testando algumas formas para melhorar como você compartilha este tipo de conteúdo no Twitter,' afirmou a rede social em um tuíte 'Estamos testando no Android e iOS: quando você publica uma única imagem, a forma como ela aparece ao compor um tuíte será como ela estará visível na linha do tempo – maior e melhor', completou.
+
+A companhia havia anunciado alterações na opção de recorte automático, mas ainda acontecia uma padronização na linha do tempo dos usuários.
+
+Fotos muito grandes, tanto na horizontal quanto na vertical, serão cortadas tomando como base o centro da imagem.
+
+Entenda o caso Imagens muito grandes geralmente são recortadas no Twitter, e os usuários precisam tocar sobre as fotos para vê-las por completo.
+
+Em setembro de 2020, perfis publicaram imagens com uma pessoa negra em uma ponta e uma pessoa branca na outra, invertendo a ordem em uma foto seguinte.
+
+Antes de abrir a imagem completa, o algoritmo do Twitter mostrava a pessoa branca com mais frequência.
+
+Replicando um teste gringo.
+
+Vamos vê qual o algoritmo do Twitter vai escolher: Mitch McConnell ou Barack Obama? pic.twitter.com/FCYyJCKMWh - September 20, 2020
+
+A rede social utiliza uma rede neural para realizar cortes automáticos nas prévias das fotos publicadas na plataforma desde 2018.
+
+Uma rede neural é um modelo computacional que faz o reconhecimento de padrões.
+
+No caso do Twitter, é utilizado um sistema que 'prevê saliências em imagens para detectar pets, rostos, texto e outros objetos de interesse'. 

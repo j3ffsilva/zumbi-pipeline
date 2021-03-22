@@ -1,0 +1,43 @@
+Inteligência artificial pode reforçar racismo, alertam especialistas da ONU
+
+Neste ano, em Detroit, um homem negro, Robert Williams,foi preso com base em "conclusões" de um algoritmo que o identificou como o suspeito de um roubo
+
+Tecnologia de reconhecimento facial, se não for bem desenvolvida, pode agravar casos de discriminação, segundo ONU
+
+Os países devem fazer mais para combater o racismo, especialmente nos algoritmos de inteligência artificial para reconhecimento facial ou os controles policiais podem reforçar essas práticas, alertaram nesta quinta-feira (26) especialistas da ONU.
+
+"Existe um grande risco de que (a inteligência artificial) reforce o preconceito e, portanto, agrave ou possibilite práticas discriminatórias", alertou em entrevista à AFP Verene Shepherd, especialista em direitos humanos.
+
+Esta jamaicana é membro do Comitê da ONU para a eliminação da discriminação racial, composto por 18 especialistas que nesta quinta-feira publicaram um relatório sobre como as autoridades devem combater esse problema.
+
+O comitê está preocupado particularmente com os algoritmos usados entre as ferramentas policiais de "prevenção" ou "avaliação de riscos", assim como pelo motor de busca ou as redes sociais preferidas das pessoas, que podem ser bombardeadas com publicidade preconceituosa.
+
+Esses sistemas de vigilância que supostamente apoiam a prevenção de crimes e foram implementados pela primeira vez nos Estados Unidos em meados da década de 2000, são também criticados porque reforçam os preconceitos sobre algumas comunidades.
+
+Ciclo vicioso
+
+"Os dados históricos sobre prisões em um bairro determinado (que alimentam a inteligência artificial) podem refletir muito bem as práticas policiais preconceituosas" e, consequentemente, reproduzi-las, destaca Shepherd.
+
+"Esses dados aumentam o risco de um excesso de presença policial que poderia levar a realizar mais prisões e, desse modo, criar um ciclo vicioso", alerta.
+
+"Os dados incorretos provocam maus resultados", resume.
+
+Entre suas recomendações, o comitê também expressa preocupação pelo uso cada vez mais generalizado do reconhecimento facial ou outras tecnologias de supervisão utilizadas em missões de segurança.
+
+Novamente, em relação a isso, o discernimento da inteligência artificial está intimamente vinculado aos dados usados para "educar" esses sistemas, explica.
+
+Além disso, os estudos realizados demonstraram que esses dados têm dificuldades para reconhecer os rostos de pele escura ou de mulheres.
+
+Um preconceito bem ilustrado, por exemplo, foi a prisão este ano em Detroit de um homem negro americano, Robert Williams, com base em "conclusões" de um algoritmo mal desenvolvido, que o identificou como o suspeito de um roubo.
+
+"Recebemos reclamações sobre esta forma de identificação errônea fruto dessas tecnologias, de quem as desenvolve ou dos exemplos utilizados por esses sistemas", indica Shepherd e acrescenta: "é uma preocupação real".
+
+O comitê pede aos países em particular que regulamentem as empresas que trabalham neste setor para garantir que tais sistemas respeitem as leis internacionais sobre direitos humanos, e insiste na necessidade de transparência na concepção e aplicação desses direitos para o público em geral.
+
+As recomendações do comitê não se limitam a essas novas tecnologias. "O desenvolvimento de perfis raciais não começou com elas", lembra Shepherd.
+
+Ela espera que "a intensificação e internacionalização do movimento Black Lives Matter (...) e outras campanhas que denunciam a discriminação contra grupos vulneráveis ajudarão (a destacar) a importância dessas recomendações", estima.
+
+---
+
+Em tempos de desinformação e pandemia, o jornal O TEMPO reforça o compromisso com o jornalismo mineiro, profissional e de qualidade. Nossa redação produz diariamente informação responsável e que você pode confiar. Continue nos apoiando. Assine O TEMPO.

@@ -1,0 +1,57 @@
+Reconhecimento facial que prejudica rostos negros reflete racismo de quem programa sites e plataformas, explica Carla Vieira, do perifaCode
+
+O perifaCode é uma comunidade de programação para pessoas de região ou origem periférica – da favela pro mundo | Foto: Divulgação
+
+Se você tem redes sociais talvez já deva ter percebido que rostos de pessoas brancas são mais frequentes nas plataformas como Twitter e Instagram. No Twitter, por exemplo, postando uma imagem com fotos de uma pessoa branca e de uma pessoa negra, independentemente da posição, é o rosto da pessoa branca que ganhará destaque. Para pesquisadoras e especialistas essa situação tem nome: racismo algorítmico.
+
+A engenheira de software Carla Vieira, bacharel em Sistemas de Informação e mestranda em Inteligência Artificial pela USP (Universidade de São Paulo), que também é co-organizadora da perifaCode, comunidade que busca levar a tecnologia para dentro das periferias, é um dos nomes que pesquisam o tema no Brasil.
+
+Ela conta que o assunto causa confusão, dentro e fora do mundo das tecnologias, mas, que cada vez mais, pesquisas sobre o assunto são feitas. “Para as pessoas especialistas na área, a confusão está na alegação de que o algoritmo não é racista, porque ele é uma matemática, é baseado em estatística e fundamentado em matemática e não tem como ser racista, quem são racistas são as pessoas que programam os algoritmos”, explica.
+
+Leia também: Cuidar da saúde mental de negros e LGBTs exige combater racismo e LGBTfobia
+
+Em sua pesquisa, Carla debate exatamente isso: “A gente usa esse termo justamente por que o racismo é uma estrutura social, de um sistema que oprime pessoas negras. O racismo está na pessoa que programa e o algoritmo tem sido uma ferramenta do racismo. É como o racismo consegue se perpetuar através da tecnologia como ferramenta”.
+
+O racismo algorítmico está longe de existir apenas nas postagens das redes sociais. O reconhecimento facial, explica Carla, chama mais atenção porque é mais impactante. “O algoritmo do Google Fotos categorizar uma pessoa negra como um gorila ou como aconteceu no Twitter da ferramenta de recorte ter esse viés. É mais impactante, mas não é só isso”.
+
+Vamos fazer uma thread com 20 artigos sobre racismo algorítmico, visão computacional e reconhecimento facial?
+
+
+
+Chega aí -> pic.twitter.com/rZkbhl51Xs — Tarcizio Silva (@tarciziosilva) September 20, 2020
+
+Também é essa forma de racismo que faz com que produtores de conteúdo negros tenham menos alcance do que pessoas brancas nas plataformas digitais, além de definir quem deve ser punido nesses espaços. “Algumas plataformas usam algoritmos para geração de conteúdo, como o Facebook e o Instagram. Eles têm pessoas reais que ficam ali olhando conteúdos diariamente para retirar da plataforma, como pornografia, e também tem algoritmos que estão treinados para fazer isso de forma mais automatizada, que é muito mais barato”, explica Carla.
+
+Leia também: Instagram censura artistas com conteúdos antirracistas
+
+“Mas essa moderação de conteúdo prejudica muito pessoas negras. No Instagram já aconteceu com várias artistas que falam sobre favela e sobre suas vivências ter foto ou ilustração banida por dizer que falava sobre violência. Foto de uma pessoa negra, de óculos, na favela é considerada uma foto que viola os termos”, aponta.
+
+Para além das buscas de imagens no Google e nas redes sociais, o racismo algorítmico também define quem deve ter prioridade na fila de um hospital. “Nos EUA, por exemplo, algoritmos fazem análises para priorizar pessoas nos hospitais. Eles usavam históricos médicos para analisar se a pessoa tem prioridade ou não na fila dos hospitais”, exemplifica a engenheira digital.
+
+“Pessoas negras não passam nos hospitais nos EUA por motivos sociais e o algoritmo entendia que não deveria priorizar. Quem programou não pensou que havia uma questão de raça para analisar. É algo que poderia ter sido facilmente evitado e não foi porque a maioria das pessoas que programam essas tecnologias são homens brancos, que não pensam nesse tipo de situação”, completa.
+
+Outras duas situações reforçam o argumento de Carla. A primeira, apontada por Tarcízio Silva, mestre em Comunicação e Cultura Contemporâneas pela UFB, em reportagem do portal Geledés, aconteceu em Londres onde “mais de 80% das abordagens incentivadas por reconhecimento facial foram erradas”.
+
+Já segundo reportagem do El País, na Nova Zelândia, especialistas desenvolveram um sistema que lista uma série de variantes (idade dos pais, saúde mental, antecedentes criminais) para determinar quais recém-nascidos tinham maior risco de serem maltratados até os 5 anos de idade. Lançado em 2014, o programa foi encerrado no ano seguinte, graças a uma investigação que demonstrou que o sistema errava em 70% dos casos.
+
+Leia também: Com Racismo Não Há Democracia: movimento busca visibilidade para questão racial
+
+Uma forma de resolver esse problema, defende Carla, é inserindo pessoas negras, periféricas, mulheres e LGBTs na programação desses sistemas e nesses espaços que são predominantemente compostos por homens cisgêneros, héteros e brancos.
+
+“Precisamos incluir pessoas que são historicamente impactadas por esses algoritmos, pensar em como desenvolver tecnologia e ferramenta que resolva os problemas das pessoas e não crie mais problemas”.
+
+“A gente só vai resolver o problema quando pararmos de pensar em vieses inconscientes e incluirmos essas pessoas na construção desses algoritmos, tanto população e usuários quanto pesquisadores, com mais pessoas negras pesquisando algoritmos, mais pessoas negras desenvolvendo tecnologias e produtos”, argumenta.
+
+Apoie a Ponte!
+
+Foi com essa ideia que nasceu o perifaCode. Feito para unir as pessoas periféricas e negras que já trabalham na área da tecnologia, o projeto surgiu com a necessidade de dialogar o dia a dia desses profissionais. “A gente tem carrega outros pesos, além da profissão, por sermos de uma minoria de também cuida da família e resolve outros problemas”.
+
+Outro lado
+
+A reportagem procurou o Instagram. Em texto publicado no blog da empresa, o diretor da rede social, Adam Mosseri, afirma que, entre outras medidas, foi criada uma Equipe de Equidade do Instagram “que se concentrará em entender as vieses no desenvolvimento de nossos produtos e nas experiências das pessoas no Instagram, assim como lidar com elas”.
+
+Procurado sobre o tema, o Twitter enviou a seguinte resposta:
+
+Fizemos uma série de testes antes de lançar o modelo e não encontramos evidências de preconceito racial ou de gênero. Está claro que temos mais análises a fazer. Continuaremos compartilhando nossos aprendizados e medidas, e abriremos o código para que outros possam revisá-lo. https://t.co/yZphB9pK5p — Twitter Brasil em 🏠 (@TwitterBrasil) September 21, 2020
+
+ATUALIZAÇÃO: a reportagem foi modificada no dia 25/09/2020 às 19h10 para contemplar o posicionamento das empresas citadas na matéria

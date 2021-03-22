@@ -1,0 +1,103 @@
+Joy Buolamwini, uma mulher negra de 30 anos, pesquisadora do Media Lab do Instituto de Tecnologia de Massachusetts (M.I.T.), estava desenvolvendo um protótipo de espelho inteligente, capaz de reconhecer a face da pessoa a sua frente e projetar no reflexo imagens de rostos de pessoas inspiradoras, como Serena Williams.
+
+Ela montou o espelho, acoplou uma câmera para captar a imagem da face e transmitir ao computador que, através de um algoritmo de reconhecimento facial, iria identificar a pessoa e vinculá-la às informações personalizadas.
+
+Tudo pronto e operando, mas o protótipo não detectava o rosto de Joy.
+
+Esgotados os possíveis problemas com a tecnologia, Joy olhou o seu reflexo no espelho e teve uma ideia: pegou uma máscara branca, dessas de fantasia, e voltou a ficar de frente pro seu projeto, que dessa vez reconheceu a máscara como um rosto.
+
+A história de Joy e de outras pesquisadoras com os algoritmos de reconhecimento facial são contadas no documentário Coded Bias, um excelente panorama sobre a adoção desse tipo de algoritmos por diferentes países do mundo.
+
+Em 2016, Joy criou o Algorithmic Justice League, uma organização crítica ao uso da inteligência artificial, que trabalha para, por meio da arte e da pesquisa, aumentar a conscientização sobre as implicações sociais dessa ferramenta.
+
+E esse não é o único movimento crítico ao uso de reconhecimento facial.
+
+Na Inglaterra há o Big Brother Watch e a Liberty Human Rights; a campanha Ban Facial Recognition é encampada por mais de quarenta instituições nos EUA; a Internet Freedom Foundation pressiona a polícia indiana para abandonar o uso de reconhecimento facial, e outros mais.
+
+Apesar do movimento mundial ser de crítica, banimento ou moratória ao uso de reconhecimento facial pelas polícias, no Brasil temos visto o movimento contrário.
+
+Desde 2019, o interesse de parlamentares, governadores, prefeitos e policiais por essa tecnologia tem aumentado, levando à disseminação de projetos em vários estados.
+
+A direita vitoriosa nas eleições de 2018 queria o reconhecimento facial no Brasil para dar mais velocidade ao trabalho da polícia de prender procurados pela justiça.
+
+E para algumas pessoas progressistas, o reconhecimento facial poderia ser uma solução, tirando das polícias o papel de escolher quem será abordado ou não.
+
+No carnaval de 2019, em Salvador, um grupo de foliões participava de um bloco de rua sem imaginar que câmeras de alta resolução capturavam suas imagens.
+
+Marcos Vinicius, de 19 anos, estava no bloco fantasiado de melindrosa, com peruca, maquiagem e fantasia, mas esses acessórios não atrapalharam o algoritmo usado pela polícia baiana e o sistema o reconheceu como um procurado pela justiça.
+
+Ele foi o primeiro preso com o uso desse tipo de tecnologia no Brasil, e não seria o último.
+
+Segundo o último levantamento da Secretaria de Segurança Pública baiana, o estado já prendeu 199 pessoas com o uso de reconhecimento facial desde a prisão de Marcos Vinicius.
+
+Em julho daquele mesmo ano, foi a hora da polícia do Rio iniciar seu projeto de reconhecimento facial.
+
+Escolheu-se o bairro de Copacabana como área de testes, e diversos postes foram instalados em pontos espalhados pelo bairro, devidamente equipados com câmeras nas suas extremidades.
+
+No segundo dia de testes, uma mulher foi reconhecida como sendo Maria Lêda Félix da Silva, condenada por homicídio e procurada pela polícia.
+
+Imediatamente os policiais conduziram a mulher que dizia não ser a procurada, mas estava sem documentação, até a delegacia.
+
+O erro foi resolvido quando familiares da mulher conseguiram encontrá-la na delegacia e, de posse dos seus documentos, conseguiram provar que ela não era a mulher procurada.
+
+O caso é mais um de uma série de erros que essas tecnologias cometem, mas tem um agravante: Maria Lêda, a 'procurada', já estava cumprindo pena em presídio havia quatro anos.
+
+Não só os algoritmos erraram, mas também a polícia que utilizou um banco de dados desatualizado.
+
+Os projetos foram avançando por estados e municípios sem encontrar muita resistência.
+
+No final de 2019 eu já tinha coletado mais de 150 prisões com o uso de reconhecimento facial, e nos casos onde havia informações, mais de 90% das pessoas eram negras, a maioria presas por crimes sem violência.
+
+As poucas vozes que se colocaram de maneira crítica à adoção desses algoritmos pelas polícias brasileiras não foram suficientes para que um debate nacional fosse pautado.
+
+Mas quais são os problemas? Algoritmos são como receitas de bolo, instruções a serem seguidas para atingir o resultado final.
+
+O que acontece é que muitos desses códigos são criados com base em grandes bancos de dados por meio do aprendizado de máquina.
+
+No caso do reconhecimento facial, um grande banco de imagens de rostos é usado para ensinar o algoritmo a identificar o que é um rosto.
+
+O que acontece nesses softwares de reconhecimento facial, como o usado pela Joy no seu espelho tecnológico, é que boa parte dos bancos de imagens utilizados para treinar esses algoritmos são compostos por pessoas brancas.
+
+Assim, quando a câmera capta a imagem de uma pessoa negra ou asiática ela não as identifica como sendo rostos humanos, mas já reconheceu dois homens negros como gorilas.
+
+Apesar de esse ser um grande problema, a criação de bancos de dados mais diversos não resolve a questão completamente.
+
+Algoritmos são dados, e dados são produtos da nossa história.
+
+Por mais que se tente cercar de todos os lados, sempre teremos defasagens e vieses nesse tipo de tecnologia.
+
+Diferente do projeto da Joy que contava apenas com uma câmera que idealmente seria instalada em um banheiro particular, os projetos de reconhecimento facial têm se baseado na instalação de câmeras que capturam imagens 24 horas em ruas, terminais rodoviários e estações de metrô, aliados a algoritmos que processam um número altíssimo de imagens de rostos combinando com bancos de dados diversos, muitas vezes sem o conhecimento do público.
+
+O potencial de dano é muito maior, uma vez que milhares de pessoas são escaneadas por hora.
+
+Para se ter ideia, a primeira fase do projeto de reconhecimento facial em Copacabana capturou 3 milhões de faces.
+
+E toda essa montanha de dados foi produzida antes mesmo da Lei Geral de Proteção de Dados (LGPD) ser sancionada, que, apesar de ter sido um avanço em termos de proteção de dados pessoais, não estabeleceu parâmetros para a área de segurança pública.
+
+Um anteprojeto de lei foi elaborado por uma comissão de juristas, mas deixou de fora temas importantes, como mecanismos de avaliação de impacto e monitoramento do uso dessas tecnologias, e outros dispositivos que seriam importantes para a garantia de que o direito à privacidade dos cidadãos não seja violado.
+
+Enquanto patinamos em relação a leis e normativas que regulem o uso dessas tecnologias no Brasil, a experiência internacional pode servir de inspiração.
+
+Patrick Doyle, ex-comandante da Polícia Estadual de New Jersey, nos Estados Unidos, tem se dedicado a estudar o uso desse tipo de tecnologia nas polícias e elenca quatro recomendações simples para esse uso: informe totalmente o público sobre o uso da tecnologia, quais dados serão processados, por quem, em que lugar, com que tipo de segurança; estabeleça parâmetros de uso, ou o conhecido procedimento operacional padrão; divulgue a eficácia da tecnologia, ou seja, quantos reconhecimentos, quantas prisões, quantos erros cometidos; e por fim crie princípios e políticas de boas práticas.
+
+Depois de acompanhar esses projetos brasileiros nos últimos anos, posso dizer que praticamente nenhum segue essas quatro simples recomendações.
+
+E mesmo que o Brasil já tivesse uma LGPD Penal, que as recomendações internacionais fossem seguidas, que os algoritmos tivessem 100% de acerto, ainda assim teríamos um problema que é anterior a qualquer tecnologia.
+
+Hoje o Brasil tem 773.151 pessoas cumprindo pena de privação de liberdade, uma taxa de crescimento da população carcerária entre as maiores do mundo; essas pessoas, a maioria negras, estão presas em grande parte por crimes sem violência.
+
+E por mais que o número de presos cresça a cada ano, não vemos redução da criminalidade.
+
+Nesse cenáŕio bem conhecido, os proponentes do uso de reconhecimento facial pela polícia parecem estar esperando resultados distintos, mas apostam em acelerar ainda mais o encarceramento, a mesma lógica que tem guiado a segurança pública em todos esses anos.
+
+Assim como a Joy Buolamwini, nos EUA, iniciativas importantes têm sido criadas no Brasil com o intuito de aumentar o debate público sobre a adoção dessas tecnologias.
+
+O Panóptico, projeto do Centro de Estudos de Segurança e Cidadania (CESeC) que coordeno desde o início deste ano, procura mapear os usos de reconhecimento facial pelas polícias do país; o AqualtuneLab, coletivo de juristas negros, tem se dedicado a racializar o debate sobre direitos digitais no país; e o DataPrivacy Brasil tem tido papel fundamental nas questões de proteção de dados.
+
+Além dessas instituições, Nina da Hora, cientista da computação, tem se dedicado a trazer mais gente para o debate por meio de uma comunicação didática e fácil, e o Tarcízio Silva, que compila uma linha do tempo do racismo algorítmico, tem discutido o tema em fóruns diversos.
+
+Essas novas vozes têm sido fundamentais, mas o caminho será longo.
+
+Sem nenhum tipo de controle, com a participação ativa do governo federal no financiamento desse tipo de uso de tecnologia pelas polícias, estamos caminhando para termos uma câmera de reconhecimento facial em cada rua e esquina do país.
+
+É necessário um freio nesse processo para que possamos debater profundamente os riscos e os potenciais dessa tecnologia para a população, principalmente a população negra, que mais uma vez tem sido mais uma vez vítima preferencial dos algoritmos 'isentos'. 

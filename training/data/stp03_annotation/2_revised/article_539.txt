@@ -1,0 +1,12 @@
+Após ter seu algoritmo acusado de racismo por privilegiar rostos brancos, o Twitter anunciou nesta semana que está experimentando uma nova maneira de exibir imagens em seus aplicativos para Android e iOS.
+
+A novidade é que a rede social não deve mais usar algoritmos para encontrar o melhor recorte para a imagem.
+
+Em vez disso, o Twitter vai testar exibir a imagem que o usuário carregou no seu formato original, sem cortes.
+
+Now testing on Android and iOS: when you Tweet a single image, how the image appears in the Tweet composer is how it will look on the timeline - bigger and better.
+
+pic.twitter.com/izI5S9VRdX -- Twitter Support (@TwitterSupport) March 10, 2021
+
+No ano passado, testes realizados por usuários do Twitter provaram que a tecnologia por trás da rede social privilegiava rostos brancos em detrimento de rostos negros no recorte automático de imagens compartilhadas pelos internautas com mais de uma pessoa nelas.
+

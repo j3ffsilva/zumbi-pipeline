@@ -1,0 +1,7 @@
+Apple e Linux decidiram banir termos associados ao racismo de seus códigos de software. O movimento histórico antirracista ganhou novo fôlego com a morte de George Floyd, nos Estados Unidos, que gerou uma onda global de manifestações por igualdade racial.
+
+Com a iniciativa das empresas, algumas palavras muito comuns em códigos de programação serão substituídas.
+
+"Escravo" passa a ser "secundário"; "mestre" passa a ser "primário"; "lista negra" passa a ser "lista de bloqueios"; "lista branca" passa a ser "lista de permissões".
+
+Linus Torvalds, da Linux Foundation, foi o primeiro a adotar essa prática, em 10 de junho. A Apple iniciou o movimento de transição de terminologias em 22 de junho. Twitter, Microsoft, Google e GitHub adotam termos similares em seus códigos de programação de software.

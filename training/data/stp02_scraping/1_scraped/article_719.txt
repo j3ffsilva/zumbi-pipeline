@@ -1,0 +1,35 @@
+O Twitter afirmou, nesta segunda-feira (21), que vai revisar o motivo pelo qual, aparentemente, o algoritmo da rede privilegia a exibição imagens de pessoas brancas quando publicadas juntos com pessoas negras na mesma postagem.
+
+Na linha do tempo da rede social, as miniaturas das fotos mostram, segundo exemplos de usuários, priorização de pessoas brancas, mesmo quando se trocam as posições das imagens. O viés foi apontado por diversos usuários da rede durante o último fim de semana.
+
+Leia também:
+
+Vênus é um planeta da Rússia (segundo os russos)
+
+Planetários de todo país vão transmitir a chegada da primavera online; veja como
+
+Em resposta a um post que exemplificava o suposto racismo, o time de comunicação da rede social disse que testou o modelo antes de colocá-lo em prática e não encontrou nenhuma evidência de preconceito racial ou de gênero.
+
+
+
+O Twitter declarou que, além de analisar o algoritmo novamente, vai abrir o código de programação para que outras pessoas possam revisar e replicar.
+
+Foto: Reprodução/ Twitter
+
+"Tentando uma experiência horrível... Qual [foto] o algoritmo do Twitter escolherá: Mitch McConnell ou Barack Obama?", escreveu um usuário da rede no sábado (19).
+
+Foto: Reprodução/ Twitter
+
+No exemplo, uma imagem continha as fotos do ex-presidente dos Estados Unidos, Barack Obama, e do senador americano Mitch McConnell separadas por uma faixa. A miniatura da foto, que é a que aparece na linha do tempo dos usuários, mostrava apenas a imagem de McConnell.
+
+Usuários começaram então a fazer o experimento com diversas fotos de pessoas brancas e negras, apontando o viés do código de sempre escolher a pessoa branca da imagem.
+
+
+
+Em um outro exemplo, foram colocadas 11 fotos de diferentes homens negros e apenas uma de um homem branco. Ainda assim, a miniatura mostrava apenas o homem branco.
+
+Em um post na rede, o diretor de tecnologia do Twitter, Parag Agrawal, afirmou que a questão levantada pelos usuários é muito importante. "Para resolver isso, fizemos uma análise em nosso modelo quando o enviamos, mas precisamos de melhoria contínua", disse.
+
+Agrawal elogiou o "teste público, aberto e rigoroso" e declarou estar ansioso para aprender com ele.
+
+(*Sob Supervisão de Giovanna Bronze)

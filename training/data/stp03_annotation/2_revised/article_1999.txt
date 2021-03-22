@@ -1,0 +1,62 @@
+Unsplash/Shawn Fields
+
+Algoritmos racistas privilegiam pessoas brancas
+
+No último final de semana, o Twitter foi acusado de utilizar um algoritmo racista para definir os cortes de imagens na rede social.
+
+Em diversos testes realizados pelos usuários, independentemente da quantidade de pessoas negras e brancas em uma imagem, a inteligência artificial da plataforma insiste em criar a miniatura da foto a partir de um rosto branco.
+
+Isso acontece porque o algoritmo define que essa é a parte mais importante da imagem.
+
+Apesar do assunto ter ganhado a internet, algoritmos enviesados, como são chamados, não são novidade - e muito menos exclusividade do Twitter .
+
+Algoritmos enviesados Há anos, o assunto é discutido na comunidade tecnológica, mas os avanços parecem lentos.
+
+Um dos grandes nomes nessa luta é o da cientista da computação ganense-americana Joy Buolamwini 'O viés algorítmico, assim como o viés humano, resulta em injustiça. No entanto, algoritmos podem espalhar preconceitos em grande escala em um ritmo rápido', disse ela, em uma palestra em 2016 .
+
+Joy explica que os algoritmos racistas surgem no momento em que eles são criados.
+
+Para um sistema de reconhecimento facial, por exemplo, o software utiliza de aprendizado de máquina para determinar o que é um rosto.
+
+Nesses casos, a inteligência artificial aprende com bancos de dados.
+
+Quem programa o sistema define uma meta de sucesso que, nesse caso, é a definição de um rosto.
+
+Para isso, ele mostra imagens de rostos para o algoritmo, que vai aprendendo o que é e o que não é um rosto.
+
+Essa meta de sucesso, porém, é baseada em um banco de dados.
+
+Se nele só tiver fotos de pessoas brancas, essa será a definição de sucesso.
+
+Quando o algoritmo se deparar com uma pessoa negra, ele não irá identificar que há um rosto ali 'Se os conjuntos de treinamento não são realmente tão diversos, qualquer rosto que se desvie muito da norma estabelecida será mais difícil de detectar', explicou Joy.
+
+O maior problema, nesses casos, é que grande parte dos sistemas de reconhecimento facial utilizam software e/ou bancos de imagens prontos.
+
+Estes geralmente são pouco diversos, criando algoritmos cada vez mais preconceituosos.
+
+Não é só uma foto
+
+Esse tipo de erro não acontece apenas em sistemas como o do Twitter .
+
+A própria Joy demonstra um sistema de reconhecimento facial que permitia a interação com um espelho que só a reconhecia quando ela estava com uma máscara branca.
+
+E não para por aí.
+
+Em 2017, um vídeo circulou na internet mostrando uma saboneteira automática que só liberava o produto quando detectava uma mão branca.
+
+Os problemas podem ir ainda além, atingindo situações mais graves.
+
+Um carro autônomo com algoritmo enviesado pararia diante de um pedestre negro, por exemplo? Além de questões futuras, o uso de algoritmos já prejudica a população negra atualmente.
+
+Recentemente, um levantamento da Rede de Observatórios da Segurança mostrou que 90,5% das pessoas presas por reconhecimento facial em câmeras de segurança no Brasil eram negras.
+
+O estudo analisou prisões realizadas na Bahia, Rio de Janeiro, Santa Catarina, Paraíba e Ceará.
+
+Nos casos de software usados para fins policiais, a meta de sucesso do algoritmo é baseada na semelhança com pessoas com mandados de prisão em aberto, e pode acabar prejudicando a população negra.
+
+Durante os quatro dias do carnaval de 2019 em Feira de Santana, na Bahia, o monitoramento por câmeras identificou 1,3 milhões de rostos, como informa o The Intercept Brasil.
+
+Desses, 903 geraram alertas, o que gerou o cumprimento de 18 mandados e na prisão de 15 pessoas.
+
+Isso significa que, dos alertas emitidos, 96% não resultaram em nada - uma quebra de privacidade na vida de muitas pessoas, em sua maioria, negras.
+

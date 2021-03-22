@@ -1,0 +1,23 @@
+Um experimento no Twitter com fotos de pessoas brancas e negras tem chamado a atenção de usuários da rede social neste fim de semana.
+
+No sábado (19), um usuário publicou duas montagens diferentes, ambas com fotografias do senador americano Mitch McConnell e do ex-presidente Barack Obama.
+
+Na primeira montagem, a foto do senador branco está em cima, e a de Obama, embaixo. Na segunda montagem, a posição das imagens foi invertida.
+
+Para surpresa dos usuários, no entanto, o algoritmo do Twitter priorizou nas duas ocasiões a foto do senador Mitch McConnell (que tem a pele branca) e exibiu a imagem dele como destaque na visualização padrão do tuíte.
+
+Trying a horrible experiment... Which will the Twitter algorithm pick: Mitch McConnell or Barack Obama? pic.twitter.com/bR1GRyCkia — Tony “Abolish (Pol)ICE” Arcieri 🦀 (@bascule) September 19, 2020
+
+Em outras montagens feitas pelo usuário, o sistema também continuou priorizando a foto do senador branco, o que gerou indignação na rede social e acusações de racismo do algoritmo do Twitter.
+
+Após a publicação, um usuário brasileiro fez experimentos parecidos e o resultado foi o mesmo. A fotografia de pessoas brancas continuou sendo priorizada.
+
+Na tarde deste domingo, o chefe de design da empresa, Dantley Davis, respondeu as mensagens na rede social admitindo a culpa pela interpretação do algoritmo do Twitter.
+
+“É 100% nossa culpa. Ninguém deve dizer o contrário. Agora o próximo passo é corrigir”, disse ele.
+
+Ele também afirmou que o sistema de reconhecimento facial não é utilizado nesses casos e que a empresa está trabalhando para corrigir o erro.
+
+Facial recognition isn’t used here. Net result feels the same though. Working on fixing it. — Dantley 🔥✊🏾💙 (@dantley) September 19, 2020
+
+Nesta segunda-feira, 21, o Twitter Brasil se posicionou sobre o assunto afirmando que "fizemos uma série de testes antes de lançar o modelo e não encontramos evidências de preconceito racial ou de gênero".

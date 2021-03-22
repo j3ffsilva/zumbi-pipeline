@@ -1,0 +1,38 @@
+O departamento de polícia da cidade de Detroit foi processado por prender equivocadamente um homem negro identificado como responsável por um furto por meio de um software de reconhecimento facial.
+
+O erro policial foi o segundo do tipo noticiado neste ano, sendo que o anterior também ocorreu em Detroit.
+
+A polícia local deteve Michael Oliver, 26 anos, em julho de 2019 sob a acusação de um furto que ele não cometeu.
+
+Segundo o site Motherboard, Oliver entrou na Justiça contra a cidade de Detroit e o detetive apontado como responsável pelo equívoco, pedindo uma indenização de a partir de US$ 12 milhões (cerca de R$ 63,5 milhões).
+
+Oliver, que ficou preso por quase três dias, chamou o trabalho da polícia e o uso do algoritmo de reconhecimento facial de 'grosseiramente negligente' 'Perdi meu emprego e meu carro. Toda minha vida foi colocada em pausa', declarou ao Motherboard. 'Essa tecnologia não deveria ser usada pela polícia'. A história é semelhante à de Robert Williams, homem negro preso pela polícia de Detroit em janeiro de 2020, também depois de um software de reconhecimento facial indicá-lo como o suspeito de um crime - caso revelado pelo jornal The New York Times.
+
+No caso de Oliver, o software confundiu-o com outro homem com aparência consideravelmente diferente.
+
+De acordo com o Motherboard, o suspeito tinha um rosto de formato arredondado, nenhuma tatuagem e pele mais escura do que a do homem que acabou preso, cuja face têm um formato mais oval e uma tatuagem sobre a sobrancelha esquerda.
+
+A vítima do erro policial foi presa quando estava dirigia a caminho do trabalho no final de julho de 2019.
+
+Oliver foi parado pela polícia, algemado e levado para a cadeia, onde ficou dois dias e meio sem receber muitas informações do suposto motivo da prisão - e ainda teve seu carro apreendido '[O detetive Donald] Bussa sequer tentou pegar um depoimento de [Oliver] ou fez qualquer coisa para oferecer [a ele] a chance de provar sua inocência', diz o processo.
+
+Em meados de setembro, a acusação foi retirada.
+
+Sistemas falhos e enviesados
+
+O software utilizado para reconhecimento facial é da empresa americana DataWorks Plus, o mesmo que confundiu Robert Williams com outro homem.
+
+O sistema não tem uma medição de viés e nível de acurácia - uma indicação de que os resultados apontados são corretos.
+
+O produto da DataWorks Plus não é o único problemático.
+
+Especialistas temem que a adoção generalizada de sistemas de reconhecimento facial para fins de segurança possa fazer mais vítimas como Oliver e Williams, pois reconhecimento facial é uma técnica com altas taxas de erro, especialmente quando aplicada para identificação de minorias.
+
+De acordo com um estudo do NIST (National Institute of Standards and Technology) que analisou 189 programas de reconhecimento facial criados por 99 desenvolvedores, o número de falsos positivos em fotos de negros e asiáticos foi maior na comparação com brancos.
+
+A diferença não é pequena: variou de 10 a 100 vezes mais.
+
+A análise também indicou que mulheres negras são a demografia mais sujeita a erros.
+
+O levantamento ainda apontou que o vises de software têm relação com quem os desenvolve, pois os sistemas criados em países asiáticos mostraram níveis de acerto altos na identificação de rostos asiáticos 'Os resultados são um sinal encorajador de que um treinamento com dados mais diversos podem produzir resultados mais igualitários, se for possível o uso de tais dados pelos desenvolvedores', afirmou Patrick Grother, autor do relatório publicado no fim de 2019.
+

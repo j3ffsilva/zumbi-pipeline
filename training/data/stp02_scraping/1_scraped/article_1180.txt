@@ -1,0 +1,11 @@
+Tudo sobre Twitter
+
+É inegável a utilidade de redes sociais para disseminar informações socialmente relevantes e facilitar a comunicação entre pessoas com interesses em comum. Porém, todos nós sabemos que, infelizmente, também é comum encontrar quem utilize tais espaços para espalhar discursos de ódio e intolerância — seja sobre questões religiosas, políticas ou de preferências sexuais. O Twitter é uma das plataformas que mais sofre com tal problema.
+
+Pensando nisso, a companhia acaba de anunciar que está atualizando suas políticas de uso e passará um pente ainda mais fino nos internautas que publicam conteúdos nocivos. A partir de agora, tweets com discursos de ódio sobre questões raciais, étnicas e nacionalidades serão excluídos instantaneamente com a ajuda dos algoritmos de detecção do serviço — mesmo que estes já provaram não serem tão eficazes assim.
+
+“Nós criamos nossas regras para manter as pessoas seguras no Twitter e permitir que elas evoluam de forma contínua para refletir a realidade do mundo em que vivemos. Nosso foco principal é abordar os riscos de danos offline, e pesquisas mostram que a linguagem desumanizante aumenta esse risco”, explicou a companhia, em uma postagem publicada em seu blog oficial.
+
+Além da remoção automatizada de conteúdos racistas e xenofóbicos, o Twitter também está trabalhando na possibilidade de suspender — mesmo que temporariamente — as contas que repetirem ofensas com frequência.
+
+Fonte: TechRadar, Twitter

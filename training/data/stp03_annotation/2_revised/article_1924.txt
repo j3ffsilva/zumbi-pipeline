@@ -1,0 +1,46 @@
+Um chatbot coreano instalado no Facebook Messenger foi temporariamente suspenso nesta terça-feira (12) por ser flagrado enviando falas racistas e discriminatórias durante conversas com os usuários.
+
+A personagem Lee Luda, desenvolvida pela startup Scatter Lab, teria enviado vulgaridades e falas ofensivas contra a população LGBTQI+, além de ter praticado discurso de ódio.
+
+A empresa desenvolvedora também é acusada de violar a privacidade dos usuários.
+
+As mensagens ofensivas enviadas pelo bot incluíam palavras como 'nojento', para se referir a lésbicas, e 'irmão negro', termo considerado pejorativo na Coreia do Sul, usado para insultar a população chinesa e negra do país.
+
+Lee Luda também teria menosprezado pessoas trans em uma resposta, usando a frase 'Eca, eu realmente os odeio'. 1 de 2 Chatbok coreano
+
+Lee Luda reproduz a imagem de uma jovem de 20 anos - Foto: Reprodução/MK Chatbok coreano
+
+Lee Luda reproduz a imagem de uma jovem de 20 anos - Foto: Reprodução/MK
+
+Quer comprar celular, TV e outros produtos com desconto? Conheça o Compare TechTudo
+
+A personagem Lee Luda foi lançada em dezembro de 2020 e foi projetada para ser uma estudante universitária de 20 anos de idade e fã do grupo feminino de k-pop Blackpink, com grande apelo entre o público adolescente.
+
+O robô utiliza inteligência artificial para interagir com os usuários, com um vocabulário composto por mais de 10 bilhões de palavras, criado a partir registros de conversas de um outro aplicativo da empresa.
+
+Em menos de um mês, Lee Luda ganhou popularidade na Coreia devido à sua capacidade de criar conversas naturais e realistas, fornecendo uma experiência semelhante à de falar com uma pessoa real pela rede social.
+
+Desde o lançamento, o robô acumulou mais de 750 mil usuários.
+
+Bot
+
+Lee Luda foi criado em dezembro e já acumula mais de 750 mil usuários - Foto: Reprodução/Yonhap News Bot
+
+Lee Luda foi criado em dezembro e já acumula mais de 750 mil usuários - Foto: Reprodução/Yonhap News
+
+Segundo um dos responsáveis pela criação da personagem, Lee Luda foi programada para não aceitar palavras-chave e expressões consideradas problemáticas ou que fossem contra os valores sociais.
+
+No entanto, ele afirmou que o sistema possuía limitações, já que utilizava somente um algoritmo que filtrava essas palavras, sendo impossível bloquear todas as conversas inadequadas.
+
+Em nota, a empresa também se desculpou pelo ocorrido 'Luda é uma IA infantil que acabou de começar a falar com as pessoas. Ainda há muito que aprender. Luda vai aprender a julgar o que é uma resposta adequada. Pedimos profundas desculpas pelas observações discriminatórias contra as minorias. Isso não reflete os pensamentos de nossa empresa e estamos continuando as atualizações para que tais palavras de discriminação ou discurso de ódio não se repitam'. Polêmica sobre privacidade
+
+A Scatter Lab também está envolvida em uma polêmica relacionada a vazamento de dados de usuários, já que criou o vocabulário de Lee Luda a partir de conversas realizadas no aplicativo KakaoTalk, uma espécie de mensageiro semelhante ao WhatsApp.
+
+A empresa captou essas conversas através do aplicativo Ciência do Amor, desenvolvido pela companhia com a promessa de analisar o grau de afeto entre os usuários do KakaoTalk.
+
+A questão é que os usuários do Ciência do Amor não foram claramente informados de que suas conversas seriam interceptadas e utilizadas para alimentar o vocabulário de Lee Luda.
+
+Sobre as acusações, a empresa diz que não houve vazamento de dados no serviço e que tentou criar diretrizes claras sobre o uso de informações pessoais, mas que não havia conseguido se comunicar de forma clara com os usuários 'Vamos esclarecer os procedimentos e continuar a lidar melhor com informações confidenciais', disse a empresa.
+
+Como deixar o fundo de um vídeo transparente? Descubra no Fórum do TechTudo.
+

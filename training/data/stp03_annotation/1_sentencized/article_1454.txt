@@ -1,0 +1,44 @@
+A Amazon vai suspender por um ano o seu sistema de reconhecimento facial.
+
+Lançado em 2016, o Rekognition utiliza inteligência artificial para identificar objetos, cenas e faces em imagens capturadas por câmeras.
+
+Nos últimos anos a tecnologia vinha sendo utilizada por órgãos policiais nos Estados Unidos.
+
+A empresa de Jeff Bezos não deu explicações detalhadas sobre os motivos que levaram à decisão.
+
+Em nota, a companhia afirmou apenas que defende que os governos implementem regulamentações mais rígidas para o uso ético da tecnologia de reconhecimento facial, principalmente nos Estados Unidos 'Esperamos que esta moratória de um ano dê tempo ao Congresso para implementar regras apropriadas e estamos prontos para ajudar, se solicitado', diz um dos trechos do texto publicado no blog oficial da companhia.
+
+Vale destacar que o uso da tecnologia ganhou força nos últimos meses graças à pandemia do novo coronavírus.
+
+Conforme mostra uma reportagem recente da revista EXAME, sistemas de vigilância munidos de inteligência artificial estão sendo utilizados para um controle social da população, principalmente em países como Taiwan, China, Coreia do Sul e Rússia.
+
+A Amazon não revela com exatidão como a tecnologia era utilizada pelas forças policiais nem quais órgãos tinham acesso ao sistema, mas sabe-se que as câmeras do Rekognition poderiam ser acopladas às vestimentas policiais para a transmissão de imagens em tempo real.
+
+Uma das razões pela suspensão pode estar diretamente ligada aos protestos que tomaram as ruas dos Estados Unidos após a morte de George Floyd, asfixiado por um policial no dia 25 de maio.
+
+Isso porque a tecnologia pode ter resultados imprecisos com pessoas de pele preta ou parda.
+
+Em 2019, um estudo do Instituto Nacional de Padrões e Tecnologia (NIST, na sigla em inglês) revelou que algoritmos têm uma taxa 100 vezes maior de resultados incorretos na identificação de pessoas negras e asiáticas.
+
+A Amazon não submeteu seu algoritmo para o teste, mas a avaliação levou em conta 189 algoritmos de 99 desenvolvedores diferentes, como a chinesa SenseTime e a Microsoft, conforme reportado pelo VentureBeat.
+
+Já outro estudo, este da União Americana pelas Liberdades Civis (ACLU, na sigla em inglês), feito em 2018 e publicado no The Guardian, revelou que a tecnologia do Rekognition tinha problemas.
+
+No experimento, o sistema apontou que 28 rostos de congressistas americanos eram, na verdade, de pessoas presas recentemente.
+
+Com a suspensão do uso da solução para identificar suspeitos pela polícia, a tecnologia será utilizada nos próximos 12 meses apenas na busca por pessoas vítimas de tráfico humano e de crianças desaparecidas.
+
+Crise no setor
+
+O movimento da Amazon acontece dias após outra gigante de tecnologia recuar em relação ao uso de sistemas de reconhecimento facial.
+
+Na segunda-feira, 8, o CEO da IBM, Arvind Krishna, informou ao Congresso americano que a empresa não estaria mais envolvida em projetos que utilizam este tipo de tecnologia.
+
+Segundo a CNBC, Krishna afirmou que espera reformas em relação a justiça social e racial para combater um racismo sistêmico no país 'É hora de iniciar um diálogo para debater como a tecnologia de reconhecimento facial deve ser utilizada por órgãos da lei.
+
+Além da IBM, Google e Facebook também estiveram envolvidas em polêmicas com suas técnicas de reconhecimento facial.
+
+A companhia de Mountain View, por exemplo, se antecipou às concorrentes e anunciou ainda em outubro do ano passado a suspensão das atividades para um aprimoramento da tecnologia.
+
+Já a companhia comandada por Mark Zuckerberg precisou pagar 550 milhões de dólares para dar fim em uma ação coletiva movida por grupos que pedem mais privacidade e que alegavam abusos no uso dos softwares do Facebook para a identificação de pessoas em fotos publicadas na rede social.
+

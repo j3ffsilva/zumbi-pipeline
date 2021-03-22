@@ -1,0 +1,49 @@
+Já imaginou que qualquer pesquisa que faça no Google ou em outra ferramenta de busca na internet está mediada pelos mesmos preconceitos e vieses inconscientes que pautam as nossas relações sociais? Ao notar que a busca por Black girls (meninas negras) sempre resultava em imagens hipersexualizadas e até pornográficas de mulheres negras americanas, a americana Safiya Noble decidiu estudar o funcionamento dos algoritmos que estão por trás dessas ferramentas.
+
+Seis anos de pesquisas resultaram no livro "Algorithms of Oppression" (Algoritmos da opressão, ainda sem tradução brasileira), lançado em 2018, em que examina como as ferramentas de busca, o Google em particular, reforçam o racismo e o sexismo das sociedades. Professora do Departamento de Estudos da Informação na Universidade da Califórnia, onde dirige o Centro para Investigação Crítica da Internet, ela afirma que a opressão e os preconceitos algorítmicos existem também nas redes sociais.
+
+Alerta: Influenciadores negros denunciam ataques de hackers contra suas contas no Instagram
+
+Safiya Noble participa do Festival Oi Futuro, evento online e gratuito, que será transmitido em tempo real, a partir das 17h, nesta quinta (23) e sexta (24), no canal do Oi Futuro no Youtube, onde ficará disponível após o evento. Safiya vai estar na mesa Ética e Humanidade na Inteligência Artificial, ao lado de Sérgio Branco, a partir das 19h40 de quinta.
+
+É sério:Estudo analisa como o discurso de ódio na internet afeta a vida de mulheres lésbicas
+
+Em entrevista à #Celina, ela conta que a decisão tomada por grandes empresas de não mais anunciar no Facebook porque a gigante da tecnologia não faz o suficiente para conter o discurso de ódio em suas plataformas é importante, mas alerta: "O modelo de negócios do Facebook, de muitas maneiras, depende da perpetuação da desinformação, da pouca informação e do discurso de ódio. É por isso que eles são tão relutantes em solucionar o problema." Leia a entrevista completa a seguir:
+
+CELINA: Como os algoritmos reproduzem ou até aumentam o racismo e o sexismo nas sociedades?
+
+SAFIYA NOBLE: Em sentido amplo, um algoritmo é um conjunto de instruções para um computador. Isso abrange tecnologias que vão de ferramentas de busca a programas que controlam os mercados financeiro e industrial, passando por reconhecimento facial e biométrico e condução assistida. Em diversos setores, vemos cada vez mais confiança em decisões tomadas com base em algoritmos e inteligência artificial; seu impacto é enorme. Eu escrevi sobre a relação entre o modelo de negócios do Google e os estereótipos racistas e sexistas, mas também vemos como a opressão e os preconceitos algorítmicos existem fora dessa plataforma, por exemplo, nas mídias sociais.
+
+Silvana Bahia, fundadora do PretaLab:‘Algoritmos são racistas’
+
+Estamos testemunhando o desenvolvimento de decisões algorítimicas para lidar com a crise da Covid-19, o que inclui automatizar algumas das decisões de médicos e administradores hospitalares, sobretudo o uso de recursos. Esses algoritmos indubitavelmente envolvem fatores de classe e raça, já que racismo, sexismo e divisões de classe estão na estrutura da Medicina. Nunca temos a oportunidade de confrontar os processos de tomada de decisão a partir de uma cama de hospital, então agora precisamos pensar como as tecnologias aprofundam as desigualdades sociais. Precisamos de políticas de proteção e, em alguns casos, de deixar de usar certas tecnologias até compreendermos melhor os danos causados por elas.
+
+Algoritmos afetam mais as mulheres negras?
+
+Quero enfatizar que os algoritmos afetam as mulheres negras de maneiras que estão profundamente enraizadas na nossa História e na opressão profunda que encontramos desde cedo no comércio transatlântico de pessoas negras, na colonização e na escravização de africanos e na dolorosa e contínua privação dos direitos das mulheres negras. Quando comecei a minha pesquisa sobre o racismo nas ferramentas de busca, eu percebia nelas as mesmas ideias racistas que estão na estrutura da sociedade americana, mas que chegam diretamente a nós por esse tipo onipresente de tecnologia. Isso inclui respostas hipersexualizadas e pornográficas quando pesquisamos o termo "meninas negras". O que é particularmente insidioso sobre o processo de busca é a persistente combinação de "negra", "latina" e outras mulheres não-brancas com conteúdo hipersexualizado, o que perpetua essas ideias racistas como algo natural.
+
+Já leu?Brasileira que ajudou em foto de buraco negro conta como participou da descoberta
+
+Existe imparcialidade ou neutralidade nas ferramentas de busca?
+
+Não existe. As ideias de neutralidade e imparcialidade costumam ser usadas conceitualmente como uma maneira de protelar a responsabilidade de empresas, designers, técnicos, programadores e anunciantes, entre outros. É especialmente danoso quando as ferramentas de busca reinvindicam neutralidade e parcialidade porque isso reforça sua imagem como confiáveis e de certa forma até mesmo como acima de qualquer julgamento. Mas sabemos que cada estágio do design e do desenvolvimento inclui interpretações, escolhas e valores. Esse ponto é crucial porque ele muda a nossa orientação sobre essas ferramentas; uma pesquisa é uma série ativa de decisões.
+
+É possível aos usuários desviar dos preconceitos das ferramentas de busca? O que gigantes da mídia como o Google podem fazer para melhorar essas ferramentas? Fazem o suficiente?
+
+Há muitas maneiras de pensar sobre isso. Quando os problemas são estruturais, as soluções também precisam ser. Isso começa com a compreensão de como funcionam os mecanismos por trás das buscas; desnaturalizar e contextualizar o processo de busca é um passo. Mas, para mudar, precisamos pensar de maneira mais ampla e estrutural sobre como operam a cultura e os negócios em volta das tecnologias. Não é uma surpresa que os sistemas de valor que as "Big Tech" refletem seja como é, já que elas têm legados de racismo e sexismo em seus produtos e em suas culturas. Essas empresas estão fazendo o suficiente? Não.
+
+Buscar informações online é um ato político?
+
+A busca por informações é definitivamente política. Na verdade, buscar afeta a nossa habilidade de conectar informação e também de ver aquele conteúdo como respeitável e confiável. A busca envolve o processo de colocar pessoas em categorias para que os anunciantes das ferramentas de busca possam combinar essas informações com projetos e indústrias que pagaram por isso. Esse processo também acontece nas mídias sociais.
+
+Escolas e universidades voltadas à tecnologia deveriam incluir racismo e questões de gênero em seus currículos acadêmicos?
+
+Claro que sim! Qualquer um envolvido com o design, a construção ou o uso de qualquer forma de tecnologia está fundamentalmente participando de um tipo de construção do mundo. A tecnologia molda e é moldada pelo mundo e por quem está nele. Desse modo, os currículos acadêmicos em Ciências da Computação e em Ciências de Dados deveriam refletir essa realidade. Em particular, os estudantes deveriam colocar o seu trabalho em contexto diante da História e das comunidades, de modo a entender como a tecnologia pode amplificar o racismo e as doenças sociais de muitas maneiras. Isso inclui, por exemplo, o uso de tecnologias de vigilância de maneira assimétrica contra pessoas negras, buscas que retornam resultados racistas e a falha das mídias sociais em proteger seus usuários. A tecnologia não opera no vácuo.
+
+Recentemente, grandes empresas cancelaram publicidade alegando falta de ação do Facebook na repressão ao discurso de ódio. Como eliminar esse tipo de discurso?
+
+Uma das dificuldades nisso é o modelo de negócios do Facebook, que, de muitas maneiras, depende da perpetuação da desinformação, da pouca informação e do discurso de ódio. É por isso que eles são tão relutantes em solucionar o problema. Além disso, há o problema da capacidade — se uma mídia social tem ou não a capacidade de lidar com o volume desses fenômenos. Conforme vemos a pressão dos anunciantes, também vemos respostas do Facebook, por exemplo, ao usar marcações e checagem básica. Mas, como ficou evidente pela resposta das lideranças que participaram das reuniões com o Facebook — quando chamaram o encontro de "frustrante" — podemos ver que, como a maioria das empresas de tecnologia, o Facebook procura soluções simples que não alteram substantivamente o seu modelo de negócios.
+
+Algoritmos sexistas e racistas têm responsabilidade nas diferentes formas de violência contra mulheres e pessoas negras? Há quem argumente que as "Big Tech" deveriam fazer reparações.
+
+Os algoritmos têm tanto responsabilidade direta quanto difusa pela violência contra mulheres e pessoas negras. Quando vemos o manifesto do assassino Dylann Roof [supremacista branco que, em 2015, matou nove pessoas negras em uma igreja na cidade de Charleston, nos EUA], nós imediatamente entendemos a conexão entre busca, propaganda racista e violência. No Centro para Investigação Crítica da Internet, na Universidade da Califórnia, temos pesquisado como tornar visível ao público o que é devido pelas empresas cujos modelos de negócio se beneficiam da extração de valor do público em uma economia que parece sobreviver e lucrar com o racismo, o sexismo, o nacionalismo, o fanatismo religioso e a homofobia. Muitas dessas empresas estão implicadas no crescimento de regimes autoritários ao redor do mundo, então, sem dúvidas, as "Big Tech" devem reparações para as muitas pessoas que foram prejudicadas pelas práticas de negócios que fomentam a desigualdade social e racial.

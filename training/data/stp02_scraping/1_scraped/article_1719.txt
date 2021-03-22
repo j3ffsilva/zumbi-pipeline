@@ -1,0 +1,45 @@
+Tudo sobre Twitter
+
+Alguns indivíduos desacreditam dos avisos de especialistas a respeito dos perigos éticos da inteligência artificial — porém, agora temos uma prova bem crítica de como um algoritmo de aprendizado de máquina pode ser maligno mesmo sem ter sido programado propositalmente para isso. O Twitter, neste momento, está quebrando a cabeça para entender o porquê de seu sistema de recorte automático de fotografias estar demonstrando tendências racistas.
+
+O algoritmo em questão foi projetado para otimizar a visualização de imagens no feed da rede social. Quando você publica uma foto grande demais e/ou fora das proporções aceitas pela plataforma, ela automaticamente escolhe uma porção do retrato para exibir, priorizando rostos humanos que porventura sejam identificados — é necessário clicar na imagem para visualizá-la por completo. Até aí, tudo bem.
+
+O problema é que alguns internautas perceberam que esse sistema prioriza, na maioria das vezes, rostos de pessoas brancas em vez de indivíduos negros. A polêmica começou quando o programador Tony Arcieri fez uma série de testes em seu perfil, compartilhando montagens que juntavam os rostos do senador Mitch McConnel e do ex-presidente Barack Obama. O sistema sempre priorizava o rosto de Mitch.
+
+Trying a horrible experiment...
+
+
+
+Which will the Twitter algorithm pick: Mitch McConnell or Barack Obama? pic.twitter.com/bR1GRyCkia — Tony “Abolish (Pol)ICE” Arcieri 🦀 (@bascule) September 19, 2020
+
+Graham Christensen, integrante do time de segurança e infraestrutura do NixOS, realizou outro teste com imagens stock (tiradas de bibliotecas) para garantir que o problema não estaria ligado a outros fatores externos, como uma eventual maior popularidade do senador em tempos de discussão política pré-eleições presidenciais dos EUA. Infelizmente, a tentativa foi em vão, pois o código novamente priorizou o modelo branco em todos os cenários.
+
+I wonder how it is that you've said this without testing it? pic.twitter.com/rro1vn8Mh8 — Graham Christensen (@grhmc) September 19, 2020
+
+Acredite ou não, mas alguns internautas chegaram ao ponto de testar o algoritmo com personagens de desenhos animados (Lenny e Carl, da franquia Os Simpsons) e até mesmo com cachorros. Você já imagina o resultado: Lenny ficou em destaque, tal como o cão de pelagem clara versus aquele de pelagem escura.
+
+I wonder if Twitter does this to fictional characters too.
+
+
+
+Lenny Carl pic.twitter.com/fmJMWkkYEf — Jordan Simonovski (@_jsimonovski) September 20, 2020
+
+Double checking just in case it depends on the order of the pictures pic.twitter.com/1oHJE0bZHk — Ant 🌸 (@acheepcheep) September 20, 2020
+
+Como resolver?
+
+Naturalmente, essa situação não está nada legal para o Twitter. Alguns executivos da companhia começaram a fazer seus próprios testes não-científicos e não-oficiais para tentar entender o porquê desse comportamento. Dantley Davis, chefe do setor de design da rede social, por exemplo, conseguiu reverter um dos testes dos internautas ao esconder as mãos do modelo negro.e vesti-lo com o mesmo terno do modelo branco.
+
+Here's another example of what I've experimented with. It's not a scientific test as it's an isolated example, but it points to some variables that we need to look into. Both men now have the same suits and I covered their hands. We're still investigating the NN. pic.twitter.com/06BhFgDkyA — Dantley 🔥✊🏾💙 (@dantley) September 20, 2020
+
+Liz Kelley, da equipe de comunicações da empresa, afirmou que a companhia “não encontrou evidências de preferências raciais ou de gênero em seus testes”, mas concordou que seriam necessárias análises mais aprofundadas.
+
+“Esta é uma questão muito importante. Para evitar isso, fizemos uma análise em nosso modelo quando o lançamos, mas ele precisa de melhorias contínuas. Adoro este teste público, aberto e rigoroso — e estou ansioso por aprender com ele”, finaliza Parag Agrawal, gerente de tecnologia do Twitter.
+
+Posicionamento oficial do Twitter
+
+A assessoria de imprensa do Twitter no Brasil entrou em contato com o Canaltech e incluiu o seguinte posicionamento oficial, publicado também no perfil nacional da companhia no microblog:
+
+Fizemos uma série de testes antes de lançar o modelo e não encontramos evidências de preconceito racial ou de gênero. Está claro que temos mais análises a fazer. Continuaremos compartilhando nossos aprendizados e medidas, abriremos o código para que outros possam revisá-lo.
+
+Fonte: The Verge

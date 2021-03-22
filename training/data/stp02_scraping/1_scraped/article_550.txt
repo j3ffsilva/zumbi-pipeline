@@ -1,0 +1,13 @@
+Em entrevista a Dylan Araujo, no Revista Rio, Silvana Bahia, pesquisadora de tecnologias e codiretora executiva do Olabi, falou sobre as questões relacionadas ao racismo algorítimico. O preconceito, que pode ser ensinado de uma geração para outra, também pode ser ensinado de pessoas para máquinas.
+
+Basicamente, o algorítmo, em relação à internet, é o mecanismo que faz as escolhas de sugestões de propagandas de produtos e serviços, filmes, músicas ou publicações para cada usuário. "Um comando executado pela máquina, para cumprir uma determinada ação", explica Silvana. Inicialmente, as máquinas recebem comandos que são influenciados pela forma de ver e pensar dos programadores e a partir daí começam a tomar ações automaticamente.
+
+"Eu costumo sempre dizer que 'tecnologia não é neutra', né, e não é um termo que eu inventei e, na verdade, eu tenho falado muito o quanto que isso já vem sendo dito há um tempo", destaca Silvana ao falar sobre a tecnologia digital e as diferentes formas que cada pessoa vê e pensa o mundo. Considerando que os algorítmos consultam bancos de dados, a partir de uma programação, é possível imaginar que os criadores dessas tecnologias vão inevitavelmente influenciar em seu resultado, inclusive com visões de mundo preconceituosas.
+
+"Porque quem faz as tecnologias somos nós, então os preconceitos também tão ali e eles vão cada vez mais aparecendo", diz Silvana, ao citar exemplos desse preconceito, como a ausência das diferentes tonalidade em fotografias de pessoas negras, ou, como lembrou Dylan, um estudo feito pela Defensoria Pública do Rio, mostrando que 70% dos acusados de forma injusta, por análise de fotos, são negros, entre outros.
+
+Para Silvana, esse debate ainda vai ganhar fôlego. "Discutir a ideia de democratização das tecnologias para tentar mitigar os efeitos negativos que as tecnologias também podem trazer", ensina Silvana. Uma oportunidade de deixar de usar dados preconceituosos do passado para construir um futuro mais inclusivo.
+
+Destacando iniciativas, Silvana falou sobre o trabalho do projeto PretaLab, plataforma digital "transmídia", que estimula mulheres negras nas áreas de inovação e tecnologia que tem diversas ações.
+
+Ouça a entrevista na íntegra clicando no player:

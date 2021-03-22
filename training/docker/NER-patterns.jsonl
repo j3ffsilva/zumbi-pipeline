@@ -1,0 +1,34 @@
+{"pattern": [{"lower": "twitter"}], "label": "VEIC"}
+{"pattern": [{"lower": "facebook"}], "label": "VEIC"}
+{"pattern": [{"lower": "bbc"}], "label": "VEIC"}
+{"pattern": [{"lower": "reuters"}], "label": "VEIC"}
+{"pattern": [{"lower": "epa"}], "label": "VEIC"}
+{"pattern": [{"lower": "uol}], "label": "VEIC"}
+{"pattern": [{"lower": "unsplash"}], "label": "VEIC"}
+{"pattern": [{"lower": "instagram"}], "label": "VEIC"}
+{"pattern": [{"lower": "g1"}], "label": "VEIC"}
+{"pattern": [{"lower": "r7"}], "label": "VEIC"}
+{"pattern": [{"lower": "folhapress"}], "label": "VEIC"}
+{"pattern": [{"lower": "afp"}], "label": "VEIC"}
+{"pattern": [{"lower": "globo-bairros"}], "label": "VEIC"}
+{"pattern": [{"lower": "cartacapital"}], "label": "VEIC"}
+{"pattern": [{"lower": "oglobo_bairros"}], "label": "VEIC"}
+{"pattern": [{"lower": "jornal"}, {"lower": "de"}, {"lower": "gramado"}], "label": "VEIC"}
+{"pattern": [{"lower": "bbc"}, {"lower": "news"}, {"lower": "brasil"}], "label": "VEIC"}
+{"pattern": [{"lower": "tv"}, {"lower": "santa"}, {"lower": "cruz"}], "label": "VEIC"}
+{"pattern": [{"lower": "the"}, {"lower": "guardian"}], "label": "VEIC"}
+{"pattern": [{"lower": "bbc"}, {"lower": "news"}], "label": "VEIC"}
+{"pattern": [{"lower": "getty"}, {"lower": "images"}], "label": "VEIC"}
+{"pattern": [{"lower": "nsc"}, {"lower": "tv"}], "label": "VEIC"}
+{"pattern": [{"lower": "nexo"}, {"lower": "jornal"}], "label": "VEIC"}
+{"pattern": [{"lower": "revista"}, {"lower": "dados"}], "label": "VEIC"}
+{"pattern": [{"lower": "tv"}, {"lower": "globo"}], "label": "VEIC"}
+{"pattern": [{"lower": "bbc"}, {"lower": "áfrica"}], "label": "VEIC"}
+
+  
+
+  
+ 
+ 
+ 
+

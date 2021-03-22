@@ -1,0 +1,156 @@
+A pesquisadora do Google
+
+Timnit Gebru recebeu um email no início de dezembro, enquanto estava de férias 'Aceitamos sua demissão imediatamente, a partir de hoje', escreveu-lhe uma vice-presidenta da empresa.
+
+O problema é que Gebru não havia pedido demissão, só tinha dito que faria isso no futuro se não fossem cumpridas certas condições.
+
+A decisão tinha sido provocada aparentemente por uma mensagem interna no qual criticou a censura a um artigo acadêmico.
+
+Ela foi imediatamente ao Twitter para contar: 'Meu acesso à conta corporativa foi cortado.
+
+Fui demitida imediatamente' 'Eu me sinto mal por meus colegas, mas para mim é melhor conhecer a besta do que fingir', acrescentou em outro tuíte.
+
+I was fired by @JeffDean for my email to Brain women and Allies.
+
+My corp account has been cutoff.
+
+So I've been immediately fired :-) - Timnit Gebru (@timnitGebru)
+
+December 3, 2020
+
+Desde aquele dia, e até sexta-feira passada, 2.351 funcionários do Google e 3.729 acadêmicos do mundo todo assinaram uma carta em apoio a Gebru.
+
+O presidente-executivo do Google, Sundar Pichai, enviou um email a todos os funcionários, no qual afirmou querer recuperar a confiança de seus trabalhadores, mas sem pedir desculpas.
+
+A comunidade global de engenheiros e pesquisadores dedicados à inteligência artificial mantém desde então um debate sobre os limites da pesquisa financiada por grandes companhias e o papel do Google como empresa, que já tirou todas as suas máscaras após abandonar seu ingênuo slogan original, 'não seja mau'. Gebru é uma pesquisadora pioneira na área de ética em inteligência artificial (IA).
+
+Sua maior realização acadêmica foi um artigo de 2018 no qual, com outros coautores, descobriu que o reconhecimento facial se enganava apenas 1% das vezes ao detectar o gênero de homens brancos, mas 35% no caso de mulheres negras.
+
+Depois de chegar de Etiópia com 16 anos, ela se formou em Engenharia Elétrica na Universidade de Stanford e participou da criação do primeiro iPad na Apple.
+
+Depois passou pela Microsoft.
+
+Após seu doutorado em visão artificial com a célebre professora Fei Fei Li, chegou ao Google no fim de 2018.
+
+O tipo de demissão —por email, quando ela estava de férias— não é o habitual para uma figura desse nível 'Demitir uma pessoa por email é a segunda pior forma, atrás apenas de fazer isso com um post-it', escreveu o professor e engenheiro espanhol Ricardo Baeza Yates em resposta a Gebru.
+
+As especulações sobre as verdadeiras causas da demissão dispararam.
+
+Estas são as causas mais comentadas.
+
+Todas refletem, no mínimo, certa falta de sensibilidade, o que deixa o Google em má posição por seu comportamento generoso ou delicado com assediadores e outros casos de destaque.
+
+1)
+
+O correio eletrônico.
+
+O email da vice-presidenta mencionava uma mensagem de correio eletrônico que Gebru escreveu para uma lista interna de funcionários do Google 'Alguns aspectos do email que você enviou ontem à noite para funcionários que não são da direção refletem um comportamento inconsistente com o que se espera de um executivo do Google'. O que dizia aquela mensagem de Gebru? Ela não pôde recuperá-la porque já não tinha acesso à sua conta.
+
+Mas, em poucas horas, já estava na newsletter do jornalista Casey Newton. 'Depois de todas as micro e macro agressões e perseguições que recebi após postar minhas histórias aqui, eu tinha parado de escrever', havia escrito Gebru.
+
+I understand the concern over
+
+Timnit
+
+'s resignation from Google.
+
+She's done a great deal to move the field forward with her research.
+
+I wanted to share the email.sent to Google
+
+Research and some thoughts on our research process.https://t.co/djUGdYwNMb - Jeff Dean (@🏡) (@JeffDean) December 4, 2020 Mas naquele dia a pesquisadora tinha algo mais a dizer.
+
+O texto inteiro é um desabafo, uma queixa pública sobre como seus superiores a trataram em relação a um artigo acadêmico do qual deveria se 'retratar'. 'Uma semana antes de sair de férias, você vê uma reunião aparecer na sua agenda' contou Gebru 'Ninguém avisa sobre o quê.
+
+Nela, dizem que 'foi decidido' que você deve retificar o paper em uma semana.
+
+Você não é digna de ter nenhuma conversa sobre isso, já que não é alguém cuja humanidade (sem falar da reconhecida expertise) seja aceita ou valorizada por esta empresa'. Era uma mensagem sobre a suposta censura a um artigo acadêmico que Gebru e outras pesquisadoras, de dentro e fora do Google, tinham enviado a uma conferência.
+
+De repente, esse artigo não parecia ter qualidade suficiente.
+
+Que informação conteria esse artigo que tanto preocupava o Google? 2)
+
+O artigo acadêmico.
+
+Ninguém publicou o artigo inteiro.
+
+Mas alguns jornalistas puderam lê-lo.
+
+Não há nada explosivo para o setor de IA ética.
+
+Fala do enorme gasto de energia que significa elaborar modelos de IA: precisam de muito poder de computação.
+
+Também se refere aos vieses criados por modelos que escrevem depois de treinar com trilhões de palavras encontradas na Internet 'As injustiças estruturais que existem na sociedade permeiam os dados.
+
+É muito difícil encontrar dados não tendenciosos, porque a sociedade é tendenciosa', explica Ariel Guersenzvaig, professor da Escola Universitária de Desenho e Engenharia Elisava (Barcelona).
+
+Com a linguagem, isso é evidente: se os modelos forem treinados com o que dizemos, repetirão nossos padrões para sempre 'O que afirma o artigo, pelo que se publicou até agora, não vou dizer que seja conhecido, mas quem conhece a literatura acadêmica não vai se surpreender com nada', diz Guersenzvaig.
+
+3) 'A mulher negra com raiva'. Se nem o email nem o artigo parecem explosivos, talvez tenham sido só a desculpa? 'O paper é provavelmente uma desculpa para se livrar de uma pessoa que, para eles, estava sendo problemática', diz Mara Balestrini, doutora em Ciências da Computação pelo University College of London.
+
+A definição de 'mulher negra com raiva' é a caricatura que a própria Gebru faz sobre o papel que os comunicados do Google parecem querer atribuir a ela: uma pessoa conflituosa que mereceu a demissão por ser problemática 'Eles me pintam como essa mulher negra com raiva porque colocam você neste terrível local de trabalho e, se você fala sobre isso, você se torna um problema', afirma Gebru na única entrevista que deu até agora depois do conflito.
+
+Um dos verbos que Gebru mais tem usado é to gaslight (que, neste sentido, pode ser traduzido como 'manipular'), originário de uma peça teatral do início do século XX, levada depois ao cinema, na qual um homem assedia psicologicamente sua mulher, fazendo-a acreditar que está ficando louca.
+
+Trata-se de abusar e, ainda por cima, culpar o outro.
+
+Foi isso que o Google fez com ela, segundo Gebru.
+
+Esses são os fatos, mas o rebuliço que o caso provocou significa que tocou pontos sensíveis.
+
+Em princípio, é apenas mais uma demissão em uma empresa com 130.000 funcionários.
+
+Então, por que causou um escândalo assim? 1)
+
+'Se fizeram isso comigo...'. O grande problema que Gebru vê em sua situação é o de todas as mulheres negras que estão em situação mais precária que a dela.
+
+Gebru fundou em 2016 o grupo Negros na IA 'A maior história para mim é que, se acontece isso comigo, o que estará acontecendo com outras pessoas?', diz Gebru agora.
+
+O Google tem 1,6% mulheres negras entre todos os seus funcionários, e apenas 0,7% em cargos técnicos e 1,1% em cargos executivos.
+
+Quase 50% dos cargos executivos são para homens brancos 'Você tem assediadores ganhando milhões de dólares', diz Gebru 'Tem todas essas pessoas com comportamento muito tóxico, e outras dizendo: 'É que são valiosas para a empresa', 'oh, é que são socialmente desajeitadas', ou o que seja.
+
+E você tem uma mulher negra que tem de provar seu valor uma e outra vez.
+
+Cheguei a um ponto em que meus conhecimentos são valorizados pela pessoas, mas não dentro do Google', acrescenta.
+
+This is what makes me sad.
+
+The message
+
+that was sent to so many people.
+
+https://t.co/YnYL85taTP - Timnit Gebru (@timnitGebru)
+
+December 10, 2020 2)
+
+'Se fizeram isso com ela...'. E uma empresa que trata assim seus funcionários brilhantes, como tratará seus bilhões de usuários? É o que pergunta Anna Jobin, socióloga e pesquisadora da Universidade de Lausanne (Suíça) 'Se uma companhia como o Google não consegue suportar o que
+
+Timnit Gebru tem para dizer, não consegue ouvir e aprender para inovar melhor, o que será que acontece com todas as outras questões éticas de seu negócio? Portanto, não é que os assuntos pessoais [como os hipotéticos problemas de Gebru no Google] não importem, e sim que já não são apenas pessoais.
+
+São importantes social, política e eticamente
+
+', acrescenta.
+
+3)
+
+Quem permitirá que pesquisemos? As grandes empresas de tecnologia são talvez a maior fonte de financiamento para pesquisadores como Gebru.
+
+As universidades são essenciais, mas têm muito menos dinheiro 'A Intel financiou meu doutorado.
+
+A diferença em relação ao que um doutorando espanhol podia fazer era abismal', assinala Balestrini 'Há muito poucos empregadores dessa natureza.
+
+Para a IA ética, se você não está na universidade, não há trabalho.
+
+Chegar ao Google ou ao Facebook é a possibilidade de ter acesso a grandes volumes de dados.'O tratamento dispensado a Gebru poderia ser um ponto de virada para a contratação de engenheiros de IA.
+
+Se os mais sensíveis veem que o departamento de ética é desprezado, talvez olhem para além do Google para trabalhar.
+
+Balestrini é cética: 'Não quero ser pessimista, mas eles não vão parar de ter grupos de pesquisadores por isso.
+
+Se essas coisas mudarem, será por haver mais alerta sobre os problemas técnicos e, ao mesmo tempo, por surgirem mais oportunidades de trabalho para pesquisadores, como ocorrerá agora com o programa Horizon Europe', diz.
+
+A polêmica gerada lembra que o Google já não é o eterno herói das buscas.
+
+Os problemas que ocorrem dentro de seus escritórios são vistos sob uma luz diferente.
+

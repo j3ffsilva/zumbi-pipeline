@@ -1,0 +1,76 @@
+Mais de dois mil matemáticos assinaram uma carta concordando em boicotar toda a colaboração com órgãos policiais e aconselhando seus colegas a fazerem o mesmo.
+
+O objetivo é eliminar as tecnologias policiais em sua origem.
+
+Os autores do documento citam 'profundas preocupações sobre o uso de aprendizado de máquina, IA e tecnologias de reconhecimento facial para justificar e perpetuar a opressão'. O policiamento preditivo é uma área chave onde alguns matemáticos habilitaram algoritmos racistas, que agora dizem aos policiais para tratar locais específicos como 'pontos críticos' para potenciais crimes.
+
+Ativistas criticam o preconceito inerente a essas práticas há muito tempo.
+
+Algoritmos treinados em dados produzidos por um policiamento racista tendem a reproduzir esse preconceito.
+
+publicidade 'Os dados não falam por si, não são neutros', diz Brendan McQuade, autor de um livro sobre o assunto.
+
+Dados policiais são dados 'sujos', porque não representam um crime, e sim policiamento e prisões, segundo McQuade. 'Então, quais são as suas previsões? Que a polícia deve distribuir seus recursos no mesmo lugar que a polícia tradicionalmente distribui seus recursos'. Uso de inteligência artificial por forças policiais tem sido alvo de polêmicas.
+
+Imagem: Pixabay
+
+Algoritmos perpetuam o excesso
+
+Esse modelo de policiamento começou a ser usado em 2013, e hoje sua implementação é vasta e obscura.
+
+Acredita-se que a maioria dos estados e grandes cidades dos EUA, como Chicago, Los Angeles e Nova York, use algum modelo de policiamento preditivo.
+
+Pessoas negras enfrentam maiores taxas de homicídios causados pela polícia, assim como taxas de detenção desproporcionalmente altas.
+
+Dados raciais não podem ser usados como um fator em modelos de policiamento preditivo, mas a localização e fatores socioeconômicos substituem facilmente esses dados.
+
+Segundo Tarik Aougab, professor assistente de matemática do Haverford College, o uso de tecnologias racistas para o policiamento não é surpreendente.
+
+O professor afirma que a principal motivação da polícia não é servir e proteger, mas 'preservar uma ordem social que é estabelecida pela vontade das elites de proteger a propriedade. A instituição nunca se afastou dessa função básica durante toda a sua existência nesse país'. Para McQuade, 'a vigilância não envolve apenas policiamento, mas formas mais sutis de controle social'. Assim como a redução da população carcerária levou a um aumento do monitoramento domiciliar, também há o risco de a redução do número de policiais em patrulha leve a um aumento no uso da tecnologia de policiamento preditivo.
+
+Boicote
+
+Para grande parte dos matemáticos que assinaram a carta, os recentes assassinatos de pessoas negras por policiais nos EUA, que levaram às manifestações do 'Black Lives Matter', foram o estopim para o movimento.
+
+Na carta aberta, os matemáticos propuseram um boicote generalizado.
+
+Eles prometem recusar toda e qualquer colaboração com a polícia.
+
+Dentre os que assinaram, está uma fundação matemática que permitiu ao fundador da PredPol, empresa de policiamento preditivo, hospedar um workshop patrocinado encorajando matemáticos a colaborar com a polícia.
+
+A PredPol não é uma ferramenta neutra para fornecer dados, e sim uma empresa de policiamento que compara seu software com a polêmica estratégia de policiamento de 'janelas quebradas', na qual um departamento age fortemente contra violações incômodas, acreditando que isso coíbe crimes mais graves.
+
+Em vez disso, tornou-se uma ferramenta de encarceramento em massa, enviando milhões de homens (especialmente jovens negros) para a cadeia por crimes não violentos.
+
+Ainda assim, a PredPol incentiva os departamentos de polícia a expandir o uso da tecnologia preventiva.
+
+Parte do objetivo do manifesto é criar materiais éticos para cursos e conferências, além de criticar o policiamento e as tecnologias usadas nele.
+
+Igualmente importante é desenvolver uma cultura em torno da comunidade matemática, onde aqueles que cooperam com a polícia são marginalizados 'Queremos que as pessoas sejam politizadas', explica Aougab. 'Isso é raro em matemática, porque existe essa crença amplamente difundida e falsa de que os matemáticos têm algum tipo de superpoder para serem objetivos e não influenciados por considerações políticas como qualquer outro ser humano'. A carta aberta é o primeiro passo para isso.
+
+Boicote visa evitar algoritmos racistas.
+
+Imagem: Shutterstock 'Verniz científico'Um algoritmo só pode ser tão bom quanto seus dados e, neste caso, os dados são derivados de ações tendenciosas de departamentos policiais.
+
+Um estudo conduzido pelo Instituto AI em 2019 examinou departamentos de polícia e seus sistemas de policiamento preditivo 'Em várias jurisdições, esses sistemas são construídos em dados produzidos durante períodos documentados de práticas e políticas imperfeitas, racialmente preconceituosas e, às vezes, ilegais', diz o resultado da pesquisa.
+
+No mesmo ano, uma auditoria descobriu uma séria falta de supervisão ou procedimentos em torno das ferramentas, tornando-as praticamente inúteis.
+
+Segundo Aougab, 'agora há um verniz científico para o que a polícia faria de qualquer maneira', já que era esperado que a corporação não mudasse seu comportamento.
+
+A tecnologia virou apenas uma justificativa legítima para o que eles já faziam antes.
+
+Por isso, os matemáticos exigem que qualquer algoritmo passe por uma auditoria pública antes de ser implementado.
+
+A ameaça da IA
+
+Conforme pedidos de retirada de fundos da polícia se espalham pelos EUA, ativistas ficam atentos a aumentos no policiamento e vigilância baseada em algoritmos.
+
+Usar inteligência artificial é mais barato do que pagar salário para patrulheiros, mas é tendencioso e com resultados imprevisíveis.
+
+Tecnologias de reconhecimento facial são usadas em todo o país para identificar, rastrear e prender manifestantes do BLM por uma suposta atividade criminosa, como forma de dissuadir outros a fazerem o mesmo.
+
+O movimento dos matemáticos busca equilibrar forças com a polícia, pelo bem do povo.
+
+Via: Shadowproof
+

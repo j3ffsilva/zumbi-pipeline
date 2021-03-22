@@ -38,12 +38,12 @@ def remove_all_elems_eq_to(sentences, elem):
 def count_elem(text, elem):
 	return text.count(elem)
 
-def sent2jsonl(a_sentence):
-	return "{\"text\":\"" + a_sentence + "\"}" + "\n"
+def format(a_sentence):
+	return a_sentence + "\n"
 
 def text_2_jsonl_sents(text, filename):
 	text = preprocess(text)
-	nlp = spacy.load("pt_core_news_sm")
+	nlp = spacy.load("pt_core_news_lg")
 	if (count_elem(text, QUOTE_SYMBOL) % 2 == 0):
 		nlp.add_pipe("set_custom_boundaries", before="parser")
 	else:
@@ -51,5 +51,5 @@ def text_2_jsonl_sents(text, filename):
 	doc = nlp(text)
 	sentences = [clean_sentence(sent.text) for sent in doc.sents]
 	remove_all_elems_eq_to(sentences, '')
-	jsonl_sents = [sent2jsonl(a_sent) for a_sent in sentences]
+	jsonl_sents = [format(a_sent) for a_sent in sentences]
 	return jsonl_sents

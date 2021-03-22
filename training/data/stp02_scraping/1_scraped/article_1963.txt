@@ -1,0 +1,23 @@
+Plataforma de rede social atualmente popular entre norte-americanos de extrema direita, o Parler voltou ao ar parcialmente com ajuda de uma empresa russa. A nova página estática usa um IP (protocolo de internet) da DDoS-Guard, companhia que oferece serviços a sites racistas e conspiratórios.
+
+O Parler foi expulso da internet no dia 11 de janeiro, quando a AWS, serviço de nuvem da Amazon, parou de hospedá-lo devido a ameaças de violência que feriam os termos de serviço e representavam um "risco real à segurança pública", causados por simpatizantes de Donald Trump e grupos que invadiram o Capitólio no início do mês.
+
+Depois disso, o domínio foi para o Epik —que apenas registrou o nome, sem fornecer hospedagem. Uma enigmática mensagem do executivo-chefe John Matze no domingo (16) comemorava o drible: "Olá, mundo, isto está ligado?".
+
+Mensagem postada por John Matze Imagem: Reprodução
+
+A DDoS-Guard, controlada por dois russos, fornece serviços de segurança digital como proteção aos ciberataques conhecidos como DDoS (ataques de negação de serviço distribuído, que travam um site com excesso de acessos). A empresa já trabalhou para sites racistas, de extrema direita e de teorias de conspiração.
+
+Matze declarou que está "confiante" que até o final de janeiro o Parler estará de volta com todas as suas funções, incluindo o aplicativo móvel. Segundo ele, todos os dados da plataforma conseguiram ser recuperados com a Amazon.
+
+Teorias da conspiração e racismo
+
+Evgeniy Marchenko, um dos proprietários da DDoS-Guard, disse ao site The Guardian que a empresa oferece serviços de segurança da informação para o mundo todo e já hospedou "centenas de websites". Isso incluiria páginas do governo russo e sites neonazistas.
+
+Também teriam trabalhado com o controverso provedor de internet VanwaTech, de Washington, que hospeda o site 8kun (antigo 8chan), uma rede social popular entre seguidores do QAnon —movimento de extrema-direita com tendências terroristas que acredita que há uma conspiração satânica e pedófila nos Estados Unidos, comandada por políticos democratas como Hillary Clinton e Barack Obama, e que Donald Trump vai libertar o país.
+
+O Parler, que se descreve como um oásis "não partidário" para a liberdade de expressão, virou um refúgio para seguidores de Trump, depois que diversas contas de pessoas de direita foram desativadas do Twitter, incluindo a do próprio ex-presidente dos EUA.
+
+Após a invasão ao Capitólio, no último dia 6 de janeiro, a rede social se tornou ainda mais importante para as atividades de extrema direita e para espalhar desinformação e conteúdo violento, já que não há nenhuma moderação de conteúdo. De acordo com Matze, Trump cogitou entrar para o Parler, com o nome "Person X" (Pessoa X).
+
+Como consequência, o Google e a Apple barraram o app em suas lojas virtuais, e a AWS tirou o site do ar. Desde então o Parler trava uma batalha judicial contra a Amazon para retornar em sua totalidade com um novo provedor.

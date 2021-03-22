@@ -1,0 +1,64 @@
+Akin Bakari D'Angelo dos Santos é fundador da InfoPreta e homem trans.
+
+Um curioso nato e um amante do desconhecido, sempre se interessou por montar, desmontar e entender o funcionamento dos eletrônicos.
+
+Fez cursos técnicos na adolescência e, aos 15 anos, já atuava na área da indústria com manutenção eletrônica de maquinário pesado.
+
+Em 2011, começou a consertar computadores em seu quarto e dois anos depois fundou a InfoPreta, empresa de serviços de manutenção que tem por objetivo inserir pessoas negras, LGBTQI+ e mulheres no mercado tech, aliando lucros a projetos sociais de grande impacto 'Às vezes, respeitar as pessoas significa certificar-se de que seus sistemas são inclusivos.'A frase de Joy Buolamwini resume bem o seu trabalho e a potência que ela é.
+
+A cientista da computação e ativista digital enfrentou grandes empresas de tecnologia provando que os serviços de reconhecimento facial apresentam erros na identificação de pessoas negras.
+
+Pesquisadora do MIT, o Instituto de Tecnologia de Massachusetts nos Estados Unidos, a ganense-americana é pioneira nas técnicas que conduzem pesquisas sobre o uso da tecnologia de análise facial.
+
+Tudo começou quando Joy (criando intimidade e já chamando só pelo primeiro nome) deu início a um projeto intitulado Aspire Mirror, ferramenta desenvolvida para projetar máscaras digitais no reflexo de quem a utilizasse.
+
+Ao usar um software genérico de reconhecimento facial, descobriu que seu rosto não era detectado.
+
+Após descartar os problemas tecnológicos, fez um teste utilizando uma máscara branca que foi prontamente reconhecida como um rosto.
+
+A experiência é citada no documentário 'Coded Bias'. Os algoritmos não erram apenas quando se trata de reconhecimento facial.
+
+No segundo semestre de 2020, o sistema de recorte automático de fotos utilizado por uma rede social foi acusado de demonstrar tendências racistas.
+
+Ao publicar imagens fora das proporções aceitas pelo site, vários usuários perceberam que o sistema prioriza o rosto de pessoas brancas, excluindo indivíduos negros da porção exibida.
+
+Os algoritmos racistas também influenciam no alcance das contas.
+
+Em 2020, diversos criadores de conteúdo denunciaram que fotos e vídeos com pessoas negras publicados tinham menor distribuição que conteúdo de pessoas brancas.
+
+Algumas redes sociais ocultam propositalmente usuários considerados 'feios' e 'pobres', obrigando seus moderadores a suprimir conteúdos de pessoas com características como 'muitas rugas' ou 'problemas nos olhos'. Como os algoritmos se tornam racistas? Ninguém nasce racista, nem os algoritmos, porém ao entrar em contato com a sociedade, acabamos dentro do dilema das práticas diárias de exclusão de pessoas que são consideradas margem da sociedade.
+
+A visão computacional (ciência que desenvolve teoria e tecnologia das máquinas que enxergam) utiliza aprendizado de máquina para realizar reconhecimentos faciais.
+
+Nele uma base de treinamento com exemplos de rostos é criada, vários rostos são mostrados e o computador é ensinado a reconhecê-los e estudá-los para aprender cada detalhe e silhueta aparente na face.
+
+Mas como reconhecer os rostos diversos do mundo? Se não há diversidade na base de treinamento, qualquer rosto fora do padrão estabelecido (que geralmente são de pessoas caucasianas, originários da Europa, de média idade e com traços finos) será difícil de detectar.
+
+E como mudar isso? Com empresas investindo em um grupo de desenvolvedores mais diverso.
+
+Um dos projetos de Joy Buolamwini, o Gender Shades, tem o objetivo de medir as taxas de erros de reconhecimento facial em relação ao gênero.
+
+As três companhias analisadas apresentaram resultados melhores nos grupos masculinos, neles foram encontrados 8,1% dos erros, enquanto os grupos femininos somaram 20,6%.
+
+Além disso, quanto mais escura a pele, maior a quantidade de erros.
+
+Somando as questões de cor e gênero, Joy concluiu que a maioria dos erros ocorria nos grupos de mulheres negras.
+
+Diversidade na tecnologia
+
+O trabalho de Joy Buolamwini reforça a importância da diversidade na tecnologia, mas também aponta que a presença de pessoas pretas na área vai muito além da empregabilidade em si.
+
+Se a cientista não fosse negra, provavelmente não teria percebido o viés algorítmico que leva às práticas discriminatórias.
+
+Se não fosse mulher, talvez jamais se preocuparia em estudar como os algoritmos atuam sobre os gêneros.
+
+E se não fosse cientista, nunca essa pauta seria levada a estudo.
+
+A exclusão das mulheres na educação formal ocorrida por décadas ainda reflete na disparidade entre os gêneros presente na ciência e na tecnologia.
+
+Se o serviço pretende atingir um público diverso, deve ser desenvolvido por um grupo igualmente diverso que reflita as particularidades dos usuários.
+
+Indivíduos diferentes que trabalham juntos são mais capazes de enxergar o 'ponto cego' uns dos outros, tornando possível empregar práticas de programação mais inclusivas, além de aumentar o capital intelectual, social e o faturamento, pois quanto mais espaços alcançados, mais pessoas podem (com gosto) utilizar o produto ou serviço.
+
+Quem programa importa, como programamos importa e para quem programamos importa Joy Buolamwini * Colaborou Rhayssa Souza, jornalista e redatora de conteúdo da Infopreta
+

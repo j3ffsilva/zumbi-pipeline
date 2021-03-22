@@ -1,0 +1,100 @@
+As máquinas tomam mais decisões sobre as nossas vidas do que se pode imaginar.
+
+Algoritmos podem decidir se um indivíduo terá um crédito aprovado ou até se será selecionado para uma vaga de emprego.
+
+Mas, apesar de transmitir a sensação de imparcialidade, muitas vezes, essa tecnologia pode reforçar preconceitos humanos.
+
+O professor do Instituto Connect de Direito Social (ICDS), Thiago Junqueira, destaca que, embora confira mais rapidez e eficiência às contratações, o uso de robôs pode amplificar discriminações presentes na sociedade.
+
+Esse problema foi, inclusive, tema de sua tese de doutorado, que resultou em um livro. - A inteligência artificial não é neutra.
+
+Ela aprende a partir de padrões e ajustes - explica Junqueira: - Vamos imaginar que um recrutador queira selecionar um candidato com perfil semelhante ao dos melhores funcionários da empresa.
+
+Se a organização tem mais trabalhadores homens, apesar de não usar diretamente o fator gênero, acaba prejudicando as mulheres.
+
+Em 2018, a Amazon abandonou sua ferramenta própria de captação de talentos ao perceber que o sistema penalizava currículos que incluíam a palavra 'mulheres', como em 'capitã do clube de xadrez de mulheres', além de ter eliminado do processo pessoas formadas em duas instituições de ensino apenas para o sexo feminino.
+
+A exclusão ainda pode ocorrer por outros fatores, como idade, classe social, sexualidade e cor de pele. - Se a empresa determinar que deseja que os candidatos morem perto de sua sede para, talvez, gastar menos com transporte ou tê-los disponíveis por mais tempo, esse filtro pode eliminar os que vivem em bairros marginais, provavelmente os mais pobres - exemplifica o professor.
+
+O analista de sistemas M. V., de 51 anos, já foi vítima da parcialidade dos algoritmos.
+
+Sem sucesso na busca por um emprego, ele contratou uma assessoria de recolocação profissional, que sugeriu a retirada da idade do currículo.
+
+A mudança teve efeito: ele conseguiu ser chamado para a etapa seguinte da seleção, mas foi descartado na entrevista. - A recrutadora disse que eu preenchia todos os requisitos para a vaga e que faria contato após o feriado.
+
+Ao se despedir, perguntou minha idade.
+
+Depois disso, nunca mais tive retorno - desabafa: - Tem que ser júnior na identidade, mas sênior na competência.
+
+É desproporcional.
+
+O especialista em Recursos Humanos
+
+Eduardo Felix afirma que, na verdade, os responsáveis pelos preconceitos da máquina são os próprios seres humanos: - O recrutador é quem seleciona os filtros.
+
+Então, esses profissionais precisam ser muito bem preparados para fazerem uma seleção idônea.
+
+Apesar da relevância, em muitas empresas esse é um cargo de entrada, preenchido por pessoas inexperientes.
+
+'Nome do meu marido limitava oportunidades' Embaixador em uma multinacional, Sávio Miranda, de 30 anos, é LGBT e tem surdez unilateral.
+
+Ele conta que enfrentou resistência para conseguir uma vaga por ser casado com outro homem. - Para a seleção de alguns cargos, eles perguntam na ficha se é casado e qual o nome do cônjuge.
+
+Percebi que preencher o nome do meu marido limitava oportunidades.
+
+Por isso, no último emprego, ocultei essa informação.
+
+Mas, após três meses que eu estava na empresa, pediram algumas documentações e enviei minha certidão de casamento.
+
+Uma semana depois, ligaram me demitindo com a alegação de que eu não atendia a uma política interna, sem dar detalhes - lembra Miranda: - Voltei a procurar emprego, mas não era chamado para entrevistas.
+
+Até que expus o meu caso no LinkedIn e uma empresa que tem como bandeira a diversidade me contactou.
+
+Assumi a posição que eu desejava! O especialista em Inteligência Artificial e professor na FIAP, Vinicius Soares, explica que, como os robôs são treinados a partir de informações existentes, se a base de dados possui preconceitos embutidos, ainda que de maneira invisível, os preconceitos serão replicados.
+
+Por isso, acredita que a solução está no tratamento correto e na seleção adequada dos dados que serão utilizados para treinar esse robô. - Isto é um processo custoso, que pode levar meses ou anos, de acordo com a complexidade do projeto.
+
+Eu acredito que a diversidade precisa ser forçada via sistema! Algoritmos que analisam somente o desempenho ou a adequação de um perfil a uma vaga normalmente são enviesados e tendenciosos.
+
+O que o sistema precisa é ser treinado para que o total das contratações proporcionem diversidade - afirma Soares.
+
+Lógica inversa pode ser usada por empresas
+
+Assim como o algoritmo pode ser usado para excluir também pode servir para selecionar perfis que integram minorias na sociedade, a fim de promover um ambiente de trabalho mais diverso.
+
+Uma pesquisa realizada pelo portal Vagas.com,em agosto, constatou que os negros têm participação reduzida em cargos de suporte, média e alta gestão: representam 8,9% dos cargos de nível pleno ante 13% dos brancos e 12% dos amarelos.
+
+No cargo de direção é onde se constata a diferença mais acentuada: 0,7% dessas posições são ocupadas por negros enquanto os brancos, amarelos e indígenas aparecem com 2%, cada.
+
+Os negros só são maioria frente às demais raças em posições operacionais (47,6%) e técnicas (11,4%).
+
+Para tornar os processos mais inclusivos, o site lançou, recentemente, um recurso de declaração racial. - Com os dados coletados, o RH consegue ter mais clareza sobre o nível de representatividade racial naquele processo seletivo, para fazer os ajustes necessários e torná-lo mais equilibrado antes das fases presenciais, onde era mais comum ocorrerem eventuais discrepâncias - explica Patrícia Beltran, integrante do comitê de Diversidade da Vagas.com.
+
+Embora o preenchimento não seja obrigatório, o questionário já teve mais de 200 mil participações.
+
+Do total, 52,4% são negros, 43,3% brancos e os demais, amarelos e indígenas. - A empresa pode usar a tecnologia para selecionar apenas negros, por exemplo.
+
+Essa preferência 'ao contrário' não é tida como um preconceito, já que é um modo de combater o sistema para dar oportunidade a pessoas que tiveram suas chances tolidas - opina o advogado Thiago Junqueira.
+
+Essa medida já vem sendo adotada por diversas empresas.
+
+A Magalu, por exemplo, lançou um programa de trainee exclusivo para pessoas negras porque, apesar dos funcionários de pele preta serem maioria na organização, ainda ocupam apenas 16% dos cargos de liderança.
+
+O salário oferecido é de R$ 6.600, além de bônus contratação; planos médico e odontológico, bolsa inglês, PLR, entre outros benefícios.
+
+A inscrição pode ser feita pelo site carreiras.magazineluiza.com.br.
+
+'Maior parte da seleção ainda é feita pelos recrutadores' Entrevista com Lúcia Madeira, presidente da Associação Brasileira de Recursos Humanos do Rio de Janeiro Podemos dizer que os robôs já substituíram os profissionais de RH na hora do recrutamento de candidatos? Não.
+
+Na prática, a tecnologia elimina apenas a parte mais mecânica do trabalho, que é a triagem dos currículos e as comunicações com os candidatos, o que representa 25% do processo.
+
+Todas as etapas posteriores, como entrevistas e dinâmicas, continuam sendo feitas por pessoas.
+
+Como os recrutadores podem evitar que o algoritmo tome decisões preconceituosas? A inteligência artificial pode reproduzir vieses inconscientes, induzido pelas características de quem desenvolveu o software, porque vai aprendendo a partir das escolhas feitas por pessoas.
+
+Por isso, é importante que o profissional de RH tenha um olhar isento e dê valor às competências.
+
+Ele é quem desenvolve o modelo para ser seguido… quem faz as perguntas, descreve o perfil e valida os resultados.
+
+E qual o papel das empresas nesse processo? Devem ampliar as referências que alimentam o sistema, com maior número de pessoas com visões diferentes.
+

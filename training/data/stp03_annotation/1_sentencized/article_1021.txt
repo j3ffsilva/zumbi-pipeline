@@ -1,0 +1,78 @@
+Após usuários do Twitter apontarem indícios de racismo no algoritmo da rede social, a empresa informou na quinta-feira (1) que revisou a rede neural que gera as visualizações de imagens e está testando uma solução para o problema.
+
+O anúncio chega duas semanas após tuítes com montagens de rostos de negros e brancos viralizarem.
+
+O algoritmo do Twitter destacou a pessoa branca em todos os casos.
+
+O tuíte que deu origem à série mostrou na prática com uma imagem única e longa que tinham nas extremidades o senador americano Mitch McConnell ou o ex-presidente Barack Obama.
+
+O primeiro, que é branco, foi destacado pelo algoritmo; já Obama, negro, não foi.
+
+Trying a horrible experiment... Which will the Twitter algorithm pick: Mitch McConnell or Barack Obama? pic.twitter.com/bR1GRyCkia -- Tony 'Abolish (Pol)ICE' Arcieri (@bascule) September 19, 2020
+
+Isso foi interpretado como um exemplo de como os algoritmos das redes sociais podem trazer vieses ou preconceitos de quem os programou.
+
+Ampliar a pluralidade racial e de gênero na ciência e na tecnologia tem sido uma bandeira de movimentos da sociedade nos últimos anos.
+
+As empresas vêm sendo pressionadas para contratar mais pessoas com perfil mais diverso.
+
+Entre usuários brasileiros, esses testes foram repetidos com resultados parecidos com o dos norte-americanos.
+
+Teste 1 - dois negros e 1 branco na terceira posição pic.twitter.com/sDb5Bvze42 --
+
+SANTIAGO (@SammFerreira)
+
+September 20, 2020
+
+Só assim para dar certo :( pic.twitter.com/EGkeIk39uV -- Nath Finanças (@nathfinancas)
+
+September 20, 2020
+
+Após as acusações, o Twitter prometeu mais análises sobre o caso.
+
+Na quinta, em comunicado assinado pelo diretor de tecnologia, Parag Agrawal, e pelo chefe de design, Dantley Davis, a empresa interpretou o problema como um erro de comunicação.
+
+Afinal, ela não informou antes ao público como seu sistema decidia o corte automático das imagens.
+
+Foi preciso alguém de fora fazer um teste e expor o resultado para eles explicarem isso de vez.
+
+Como funciona o corte hoje? Segundo a explicação do Twitter, as imagens são cortadas pelo algoritmo de acordo com suas áreas de 'saliência' —isto é, com as regiões da imagem com mais chances de serem observadas primeiro, de acordo com estudos acadêmicos.
+
+O Twitter explica um pouco sobre isso em um texto de 2018.
+
+O que a a empresa não disse na época —e fez isso agora— é que teria feito testes para detectar vieses do algoritmo, combinando fotos de pessoas de diferentes grupos demográficos na mesma imagem.
+
+Citou como exemplos branco e negro, branco e indiano, branco e asiático, e homem e mulher.
+
+A ideia era perceber a parte mais destacada dos rostos pelo algoritmo.
+
+A análise foi repetida 200 vezes para cada par de categorias, e a empresa disse não ter percebido vieses com isso.
+
+Apesar disso, o Twitter reconheceu que a ferramenta automática ainda tinha um 'potencial para danos', como as críticas recentes dos usuários apontaram.
+
+Também não deixa de ser uma justificativa estranha: a tal 'saliência' do algoritmo privilegia brancos porque entende que as pessoas têm mais chance de olhar para eles primeiro? O algoritmo de corte de fotos do Twitter depende bastante do aprendizado de máquina da sua rede neural, que na teoria 'entende' padrões e comportamentos para ficar mais preciso.
+
+Mas a empresa diz que está trabalhando em uma forma de diminuir essa dependência, para que as pessoas possam controlar como as imagens serão mostradas antes de tuitar.
+
+A plataforma ressalta que haverá exceções a essa ideia, como fotos que não são do tamanho padrão ou que sejam largas ou longas demais.
+
+A ideia, segundo eles, é sempre manter o suposto ponto focal da foto e não prejudicar a sua 'integridade'. Em resumo, ainda está um pouco nebuloso sobre o que será manual e o que será automático no corte das fotos —e neste último caso, como um novo algoritmo conseguiria evitar racismo quando for a hora dele agir.
+
+O Twitter ainda diz no texto que nenhum sistema será 'completamente isento de viés', mas que vai tentar reduzir este problema com 'análises deliberadas e completas', sem entrar em mais detalhes.
+
+Twitter pode ser acusado de racismo? Mas esse comportamento automatizado pode acabar se transformando em um processo de racismo contra o Twitter? Para Marcelo Chiavassa, professor de direito digital da Universidade Presbiteriana Mackenzie, um software não é racista ou enviesado mas seus resultados podem ser, dependendo das instruções que recebe.
+
+No caso do Twitter, Chiavassa acredita que um dos pontos que jogam a favor do Twitter é que o direito chama de risco de desenvolvimento 'Sempre que uma nova tecnologia é desenvolvida, não se consegue prever todos os riscos, é impossível. Ninguém sabe em tudo que vai resultar. Se quisermos que a empresa responda pelo risco do desenvolvimento, vamos colocar travas nele', diz.
+
+Já o professor de direito do consumidor e ex-assessor chefe do Procon-SP, Marco Antonio Araujo Junior, acredita que o Twitter pode sim ser responsabilizado, já que o algoritmo é alimentado por um ser humano 'Ele tem uma programação que potencializa a imagem de pessoas brancas e, de alguma forma, anula a de pessoas negras. Essa conduta configura o crime de racismo', defende.
+
+Mas, para que isso fosse possível, seria preciso apurar se de fato o algoritmo estava programado nesse sentido, mesmo com o Twitter admitindo o erro 'O interessante é que a injúria tem prescrição, mas o racismo é imprescritível. Então, demore o tempo que demorar, o Twitter talvez tenha que se preparar para uma eventual defesa se órgãos como o Ministério Público ou a Defensoria Pública ajuizarem algum tipo de ação', afirmou.
+
+Christiano Jorge Santos, professor de direito penal da PUC-SP (Pontifícia Universidade Católica de São Paulo), diz que o Twitter assumir o erro não quer dizer que admitiu que cometeu uma conduta ilícita 'Todo mundo pode cometer um erro e acho louvável que a empresa corrija o erro. Agora, não é porque ela admite o erro que admite um crime, são coisas diferentes', explica.
+
+Santos ressalta que o caso do Twitter pode ser reflexo da sociedade atual, com falta de representatividade da população negra em certos ambientes como o da tecnologia 'Em inúmeros núcleos sociais você tem pouquíssimos negros. Imaginemos que a área de tecnologia seja um nicho branco. É natural que você pense na pessoa fazendo uma análise com a imagem parecida com a que vê no espelho', destaca.
+
+Para ele, seria difícil enquadrar a empresa no crime de racismo porque seria preciso detectar uma intenção do programador em priorizar pessoas brancas 'Não dá para ser racista sem querer. A conduta criminosa é muito grave, então ela tem que ser reservada para comportamentos que de fato sejam atentadores à igualdade.'O crime de racismo é previsto no Brasil na lei 7.716/1989.
+
+Ela associa diversas condutas a racismo, como recusar ou impedir acesso a estabelecimentos comerciais, como lojas e restaurantes; barrar entradas em edifícios públicos, residenciais e elevadores; e negar emprego em empresa privada, entre outros casos.
+

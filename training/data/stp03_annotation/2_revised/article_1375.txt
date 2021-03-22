@@ -1,0 +1,82 @@
+Recentemente, foi exposto no Twitter que seu algoritmo de fotos para gerar visualizações mostra pessoas brancas com mais frequência que pessoas negras.
+
+O mesmo aconteceu no Instagram.
+
+Influenciadores negros notaram que a rede prioriza o engajamento de perfis brancos e limita o engajamento de perfis pretos.
+
+Vários usuários fizeram o teste e concluíram que a inteligência artificial e os algoritmos das plataformas têm ligação com o racismo.
+
+Quando você publica uma imagem muito grande ou fora das proporções no Twitter, por exemplo, a plataforma automaticamente escolhe um pedaço do retrato para exibir e prioriza os rostos humanos que forem identificados.
+
+Nos posts abaixo, é possível notar que o algoritmo projetado para otimizar a visualização de imagens no feed da rede social sempre oculta pessoas negras, revelando os perigos éticos da inteligência artificial.
+
+I wonder if Twitter does this to fictional characters too.
+
+Lenny
+
+Carl pic.twitter.com/fmJMWkkYEf - Jordan Simonovski (@_jsimonovski) September 20, 2020
+
+Trying a horrible experiment… Which will the Twitter algorithm pick: Mitch McConnell or Barack Obama? pic.twitter.com/bR1GRyCkia - Tony 'Abolish (Pol)ICE' Arcieri 🦀 (@bascule) September 19, 2020 Estimulados pela polêmica do Twitter, influenciadores negros do Instagram também resolveram fazer o teste.
+
+A Sá Ollebar, por exemplo, decidiu publicar fotos só de mulheres brancas em seu feed após ver seus números de seguidores e likes diminuírem.
+
+Como resultado, após as publicações, seu engajamento teve um aumento de cerca de 6.000%! A criadora de conteúdo Luana Carvalho replicou o teste e teve resultados semelhantes.
+
+Muitos de seus seguidores declararam que não eram impactados por seus conteúdos há semanas, mas que receberam de uma só vez as três publicações que ela fez com mulheres brancas.
+
+Continua após a publicidade Mas, afinal, o que é algoritmo? De uma forma simples, algoritmo é uma sequência de raciocínios, operações ou instruções usadas para alcançar um determinado objetivo.
+
+É como se fossem várias receitas de pratos diferentes para você preparar um banquete completo.
+
+Ou seja, ele engloba todos os cenários possíveis para um usuário da rede.
+
+Um dos principais pontos levantados pela discussão é como é possível construir cenários diversos para usuários se quem está fazendo as programações são majoritariamente homens brancos de classe média alta? Quando não há diversidade de raça, gênero e classe social, fica muito difícil retratar cenários possíveis para pessoas em diferentes segmentos da sociedade.
+
+O que acaba acontecendo é uma reprodução do poder que enxergamos na 'vida real'. Por isso, não necessariamente o algoritmo em si é racista, mas toda a sua construção ao redor é.
+
+Assim como o algoritmo, os recursos de inteligência artificial estão sendo cada vez mais utilizados por empresas e governos, sendo aplicados em sistemas de seguranças e plataformas de mídias sociais.
+
+A visão computacional, que é uma aplicação da inteligência artificial, permite reconhecer automaticamente objetos, conceitos, características extraídas de imagens e até mesmo pessoas.
+
+Certas aplicações, contudo, merecem atenção redobrada, pois podem reforçar práticas que invisibilizam pessoas negras, como foram os casos denunciados pelos usuários do Twitter e do Instagram.
+
+Chegamos então a outra questão: a falta de diversidade nos bancos de imagens.
+
+De onde será que vêm as fotos que servem como base para esses sistemas? Essa pergunta foi analisada pela cientista da computação Shreya Shankar e alguns de seus colaboradores, que concluíram que a maioria das imagens do ImageNet e Open Images, por exemplo, famosos bancos de fotos, vem dos Estados Unidos e da Grã Bretanha.
+
+Outros países possuem frações muito pequenas de representação.
+
+A inteligência artificial aprende com bancos de dados construídos por programadores e cientistas da computação.
+
+São lugares em que a população negra está pouco inserida.
+
+Dados de 2016 do Ministério do Trabalho e Emprego (MTE) mostram a diferença racial no setor: brancos somam 92% na área de engenharia de equipamento em computação e 88% no setor da aeronáutica, enquanto pretos e pardos são maioria apenas em trabalhos informais.
+
+O que diz o Twitter? O Twitter, por sua vez, fez alguns testes não-científicos e não-oficiais para entender esse comportamento.
+
+O chefe do setor de design da rede social, Dantley Davis, conseguiu reverter um dos testes dos internautas ao esconder as mãos do modelo negro e vesti-lo com o mesmo terno do modelo branco.
+
+Here's another example of what I've experimented with.
+
+It's not a scientific test as it's an isolated example, but it points to some variables that we need to look into.
+
+Both men now have the same suits and I covered
+
+their hands.
+
+We're still investigating the NN.
+
+pic.twitter.com/06BhFgDkyA - Dantley 🔥✊🏾💙 (@dantley) September 20, 2020
+
+A plataforma, por meio de sua conta, afirmou: 'Não encontramos evidências de preconceito racial ou de gênero em nossos testes. Mas está evidente que temos mais análises para fazer. Continuaremos a compartilhar o que aprendemos, quais ações tomamos e abriremos o código para que outros possam revisar e replicar.' We tested for bias before shipping the model & didn't find evidence of racial or gender bias in our testing.
+
+But it's clear that we've got more analysis to do.
+
+We'll continue to share what we learn, what actions we take, & will open source it so others can review and replicate. - Twitter Comms (@TwitterComms) September 20, 2020
+
+A questão ainda precisa ser analisada mais a fundo e é importante que esses pontos continuem sendo expostos, principalmente porque essa discussão não é nova.
+
+Apesar de a tecnologia ter avançado bastante, são necessárias muitas melhorias contínuas também.
+
+Afinal, a estratégia contra o racismo precisa envolver toda a sociedade.
+

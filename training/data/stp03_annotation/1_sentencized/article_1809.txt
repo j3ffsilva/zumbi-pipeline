@@ -1,0 +1,36 @@
+O chatbot coreano Lee Luda, criado pela startup Scatter Labs, foi desligado pela empresa recentemente após relatos de que ele teria aprendido a ser racista e homofóbico, segundo informações da Vice.
+
+O chatbot era representado por uma garota universitária – a 'Lee Luda' – de 20 anos e fã do grupo de K-Pop Blackpink.
+
+Segundo a publicação, o problema se deu no treino da inteligência artificial (IA) do chatbot.
+
+A Scatter Labs tem um outro aplicativo, chamado Science of Love, onde usuários trocavam mensagens privadas entre si.
+
+A Luda, por sua vez, teve acesso aos arquivos dessas conversas sem nenhum tipo de filtro, eventualmente identificando e absorvendo mensagens de cunho preconceituoso como se fossem normais.
+
+publicidade Personagem Lee Luda, um chatbot criado pela coreana Scatter Labs, respondeu usuários com racismo e homofobia, resultando em seu desligamento.
+
+Imagem: Scatter Labs/Divulgação
+
+A Scatter Labs passou a receber relatos de clientes que interagiram com o chatbot apenas para receber respostas de baixo calão e recheadas de discurso de ódio, em uma situação bastante similar ao que aconteceu com o Tay, da Microsoft, em 2016; na época, o chatbot da empresa de Satya Nadella começou a tuitar mensagens perigosas, até a companhia desligá-lo.
+
+Alguns relatos se mostram bem preocupantes: Michael Lee, um ativista coreano em favor do público LGBTQIA+, compartilhou capturas de imagem onde o chatbot, em resposta a uma pergunta sobre lésbicas, as chamou de 'nojentas'. Outro usuário, Lee Kwang-suk, professor de políticas públicas e tecnologia da informação na Universidade de Seul, trouxe imagens que mostravam Lee Luda referindo-se a negros como 'heukhyeong' – uma gíria pejorativa cuja tradução é 'irmão preto' –, além de outros prints onde ela respondeu 'Eca! Eu realmente os odeio', quando questionada sobre transgêneros.
+
+A startup coreana, por sua vez, emitiu um comunicado esclarecendo a situação e pedindo desculpas, afirmando que a Lee Luda foi temporariamente desligada.
+
+Ainda não está claro se ela deve voltar após uma avaliação interna, ou se o produto foi terminantemente descontinuado.
+
+Chatbot Lee Luda será processada
+
+Apesar do comunicado de desligamento e do pedido público de desculpas, a Scatter Labs não escapou do escrutínio da opinião pública – ou da justiça coreana.
+
+Segundo relatos da mídia local, os usuários do app Science of Love não foram comunicados de que seus registros de chat seriam usados para treinar a inteligência artificial da Lee Luda.
+
+Em outras palavras, sentiram que houve uma grosseira violação de suas privacidades.
+
+O resultado disso é uma ação judicial de classe – onde várias pessoas que têm a mesma reclamação se unem em um processo mais amplo – contra a Scatter Labs.
+
+A documentação, porém, ainda não foi preenchida, então a empresa não comentou sobre isso.
+
+Fonte: Vice
+
