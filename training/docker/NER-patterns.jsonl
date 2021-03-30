@@ -3,7 +3,7 @@
 {"pattern": [{"lower": "bbc"}], "label": "VEIC"}
 {"pattern": [{"lower": "reuters"}], "label": "VEIC"}
 {"pattern": [{"lower": "epa"}], "label": "VEIC"}
-{"pattern": [{"lower": "uol}], "label": "VEIC"}
+{"pattern": [{"lower": "uol"}], "label": "VEIC"}
 {"pattern": [{"lower": "unsplash"}], "label": "VEIC"}
 {"pattern": [{"lower": "instagram"}], "label": "VEIC"}
 {"pattern": [{"lower": "g1"}], "label": "VEIC"}

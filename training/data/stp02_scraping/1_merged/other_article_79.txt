@@ -1,0 +1,29 @@
+Felipe Zmoginski foi editor de tecnologia na revista INFO Exame, da Editora Abril, e passou pelos portais Terra e America Online. Fundou a Associação Brasileira de Online to Offline, foi secretário-executivo da Associação Brasileira de Inteligência Artificial e head de marketing e comunicações do Baidu no Brasil, companhia líder em buscas na web na China e soluções de inteligência artificial em todo o mundo. Há seis anos escreve sobre China e organiza missões de negócios para a Ásia.doras e compreender a ascensão da nação pobre que se tornou potência mundial em menos de três décadas.
+
+As duas maiores empresas de tecnologia da China, a Tencent e o Alibaba, receberam autorização, esta semana, para incluir a criptomoeda soberana chinesa, o e-renminbi, em suas carteiras digitais.
+
+A notícia é relevante porque, na China, a circulação de dinheiro de papel tornou-se muito restrita e os serviços AliPay e WeChat Pay, respectivamente produtos de Alibaba e Tencent, dominam 84% do mercado de pagamentos digitais no país.
+
+Atualmente, os usuários transferem dinheiro de suas contas bancárias tradicionais, em bancos de varejo, para suas contas no AliPay (que detém 51% do mercado de mobile payment chinês) e WeChat (33% do mercado) e, por meio do uso de tecnologias como reconhecimento facial ou uso de QR code, realizam as transações financeiras do dia a dia, como fazer compras online ou pagar por bens e serviços no "mundo offline".
+
+Desde o segundo semestre de 2020, o Banco do Povo, equivalente ao Banco Central por lá, amplia os testes com RMB digital, uma inovação mundial, já que esta é a primeira grande economia a testar o uso de uma criptomoeda soberana.
+
+Ao contrário de moedas como bitcoin, por exemplo, cujo valor flutua em função da confiança e procura por este bem virtual, as moedas soberanas possuem lastro, ou seja, tem valor garantido pelos bancos centrais e governos dos países que as emitem.
+
+No caso chinês, até o momento, seis bancos estatais participam dos testes do e-RMB e seus correntistas podem receber salários e transacionar valores baseados apenas na criptomoeda. Com a autorização para que WeBank (a entidade bancária da Tencent) e MyBank (do Alibaba) operem a moeda eletrônica, amplia-se enormemente o potencial de popularização do criptodinheiro chinês.
+
+A criação do e-RMB é vista por analistas como uma inovação que elevará o poder do governo chinês sobre seu mercado financeiro doméstico, além de aumentar a projeção chinesa no comércio mundial.
+
+O primeiro fator é justificado pelo fato de as moedas digitais chinesas terem conferido, nos últimos cinco anos, grande poder às big techs que, por mais que obedeçam a regulação governamental, são empresas privadas e eventualmente excessivamente poderosas. O "grande poder" das big techs, aliás, é uma preocupação mundial, como comprova as tentativas europeias e americanas de apertar a regulação sobre suas grandes empresas digitais.
+
+A criação do e-RMB, neste sentido, diminui o poder relativo de Alibaba e Tencent, já que novas carteiras digitais, operadas pelos bancos públicos, vão se popularizar.
+
+Há ainda benefícios em termos de produtividade para a economia chinesa. Dinheiro digital com lastro é mais barato de emitir do que notas de papel, permite maior controle sobre fluxos financeiros (dificultando casos de corrupção e sonegação), além de permitir a "automação" de rotinas tributárias e financeiras das empresas, que tendem a ficar (ainda mais) produtivas e competitivas.
+
+A grande vantagem desta tecnologia, porém, está em facilitar o comércio internacional com a China. Um dos maiores entraves a compras internacionais é a insegurança e o tempo de compensação de transferências financeiras entre países —além das tarifas bancárias, recorrentemente caras.
+
+O blockchain, tecnologia por trás do e-RMB, resolve todos estes problemas: é barato, seguro e permite transparência em seu processo de "compensação" e, como se fosse pouco, é instantâneo.
+
+A vantagem matadora e pouco explorada nos comunicados chineses, porém, é o fato de a criptomoeda golpear duramente o "padrão dólar". Afinal, para fazer negócios da China, será possível simplesmente transferir RMB digitais de seu PC para o celular de seu parceiro, em Pequim ou Shenzhen. Ninguém mais terá que converter sua moeda nacional ao dólar e depois, novamente, ao RMB.
+
+Na prática, isto diminui enormemente o poder americano de influenciar os fluxos comerciais por meio de ajustes em seu câmbio. E empodera (mais um pouco) a China no cenário global.

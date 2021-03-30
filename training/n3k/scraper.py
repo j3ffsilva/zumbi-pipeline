@@ -10,15 +10,16 @@ class ScrapedArticle:
         self.article = self.__scrape_n_parse(a_url, lang)
 
     def __scrape_n_parse(self, a_url, lang):
-        url_text = a_url.text()
+        #url_text = a_url.text()
+        url_text = a_url
         article = newspaper.Article(url="{}".format(url_text), language=lang)
         try:
             article.download()
             article.parse()
         except:
-            self.a_url.update_status_by_id(
-                        config.get_article_status("scraped_failed"),
-                        id)
+            #self.a_url.update_status_by_id(
+            #            config.get_article_status("scraped_failed"),
+            #            id)
             article = None
         return article
 
@@ -45,9 +46,14 @@ class ScrapedArticle:
             return
         return self.article.text
 
-    def save_as_scraped(self):
-        id = self.a_url.find_by_url()
-        filename = config.SCRAPER_OUTPUT_DIR + "article_" + str(id) + ".txt"
+    def save_as_scraped(self, out_dir=None, out_file=None, id=None):
+        if (not id):
+            id = self.a_url.find_by_url()
+        if (not out_dir and not out_file):
+            filename = config.SCRAPER_OUTPUT_DIR + "article_" + str(id) + ".txt"
+        else: 
+            filename = out_dir + out_file
+            filename = filename.format(id)
         if (not self.content()):
             return False
         with open(filename, "w") as file:

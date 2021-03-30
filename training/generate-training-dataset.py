@@ -16,6 +16,7 @@ import re
 def build_urls(input_file):
 	return [URL(row[0], row[2]) for row in read_discard_title(input_file)]
 
+
 def scrape_urls(urls):
 	print("==> Started Step #2: Scraping")
 	for url in tqdm(urls):
@@ -27,6 +28,21 @@ def scrape_urls(urls):
 				url.update_status_by_url(
 					config.get_article_status("scraped"),
 					url=url.text())
+
+def read_other_urls(input_file):
+	return [row[2] for row in read_discard_title(input_file)]
+
+def scrape_other_urls(urls):
+	print("==> Started Step #2: Scraping Other files")
+	out_dir = 'data/stp02_scraping/1_other_scraped'
+	out_file = "other_article_{}.txt"
+	i = 0
+	for url in tqdm(urls):
+		i += 1
+		sleep(config.SCRAPING_SLEEP_TIME)
+		article = ScrapedArticle(url)
+		if article:
+			article.save_as_scraped(out_dir, out_file, i)
 
 def sentencize_article(sentencizer_input_dir):
 	print("==> Started Step #3: Sentencizing")
@@ -90,12 +106,12 @@ def jsonlify_sentences(input_dir):
 
 def main(input_file):
 	### Step 2: Scrape URLs
-	#scrape_urls(build_urls(input_file))
+	scrape_other_urls(read_other_urls(input_file))
 
 	### Step 3: Sentencize articles
 	#sentencize_article(config.SENTENCIZER_INPUT_DIR)
 
-	sentences = jsonlify_sentences(config.JSONL_INPUT_DIR)
+	#sentences = jsonlify_sentences(config.JSONL_INPUT_DIR)
 	
 
 if (__name__ == '__main__'):
